@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "radom_button",
+    "texture": "efe8f481-0e85-4820-b839-14f25936e39e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      515,
+      180
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      515,
+      180
+    ]
+  }
+}

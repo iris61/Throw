@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ring",
+    "texture": "cd364965-edd4-4e63-afba-c1dc1cbe5a12",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      441,
+      441
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      447,
+      447
+    ]
+  }
+}

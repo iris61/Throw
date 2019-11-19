@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "board_piece_2",
+    "texture": "d33a29ac-53d6-4a7b-a1f7-a76b5790cca0",
+    "atlas": "",
+    "rect": [
+      1,
+      2,
+      424,
+      242
+    ],
+    "offset": [
+      -0.5,
+      2.5
+    ],
+    "originalSize": [
+      427,
+      251
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "79486afa-f8c6-4d77-9839-1b010c858ab8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "stage_progress_bar_knife_orange": {
+      "ver": "1.0.3",
+      "uuid": "a6e12c15-be84-481d-98a6-b8f044d32a55",
+      "rawTextureUuid": "79486afa-f8c6-4d77-9839-1b010c858ab8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 10,
+      "trimY": 8,
+      "width": 41,
+      "height": 38,
+      "rawWidth": 60,
+      "rawHeight": 54,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

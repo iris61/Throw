@@ -1,0 +1,1297 @@
+{
+  "f8e6b000-5643-4b86-9080-aa680ce1f599": {
+    "asset": 1533637167000,
+    "meta": 1533637167000,
+    "relativePath": "image"
+  },
+  "71561142-4c83-4933-afca-cb7a17f67053": {
+    "asset": 1533637167000,
+    "meta": 1540557225727,
+    "relativePath": "image/default_btn_disabled.png"
+  },
+  "e851e89b-faa2-4484-bea6-5c01dd9f06e2": {
+    "asset": 1533637167000,
+    "meta": 1540557225729,
+    "relativePath": "image/default_btn_normal.png"
+  },
+  "d81ec8ad-247c-4e62-aa3c-d35c4193c7af": {
+    "asset": 1533637167000,
+    "meta": 1540557225745,
+    "relativePath": "image/default_panel.png"
+  },
+  "b43ff3c2-02bb-4874-81f7-f2dea6970f18": {
+    "asset": 1533637167000,
+    "meta": 1540557225747,
+    "relativePath": "image/default_btn_pressed.png"
+  },
+  "99170b0b-d210-46f1-b213-7d9e3f23098a": {
+    "asset": 1533637167000,
+    "meta": 1540557225765,
+    "relativePath": "image/default_progressbar_bg.png"
+  },
+  "cfef78f1-c8df-49b7-8ed0-4c953ace2621": {
+    "asset": 1533637167000,
+    "meta": 1540557225768,
+    "relativePath": "image/default_progressbar.png"
+  },
+  "567dcd80-8bf4-4535-8a5a-313f1caf078a": {
+    "asset": 1533637167000,
+    "meta": 1540557225780,
+    "relativePath": "image/default_radio_button_off.png"
+  },
+  "9d60001f-b5f4-4726-a629-2659e3ded0b8": {
+    "asset": 1533637167000,
+    "meta": 1540557225781,
+    "relativePath": "image/default_radio_button_on.png"
+  },
+  "4bab67cb-18e6-4099-b840-355f0473f890": {
+    "asset": 1533637167000,
+    "meta": 1540557225790,
+    "relativePath": "image/default_scrollbar_bg.png"
+  },
+  "617323dd-11f4-4dd3-8eec-0caf6b3b45b9": {
+    "asset": 1533637167000,
+    "meta": 1540557225793,
+    "relativePath": "image/default_scrollbar_vertical_bg.png"
+  },
+  "d6d3ca85-4681-47c1-b5dd-d036a9d39ea2": {
+    "asset": 1533637167000,
+    "meta": 1540557225801,
+    "relativePath": "image/default_scrollbar_vertical.png"
+  },
+  "0291c134-b3da-4098-b7b5-e397edbe947f": {
+    "asset": 1533637167000,
+    "meta": 1540557225805,
+    "relativePath": "image/default_scrollbar.png"
+  },
+  "0275e94c-56a7-410f-bd1a-fc7483f7d14a": {
+    "asset": 1533637167000,
+    "meta": 1540557225810,
+    "relativePath": "image/default_sprite_splash.png"
+  },
+  "6e056173-d285-473c-b206-40a7fff5386e": {
+    "asset": 1533637167000,
+    "meta": 1540557225824,
+    "relativePath": "image/default_sprite.png"
+  },
+  "73a0903d-d80e-4e3c-aa67-f999543c08f5": {
+    "asset": 1533637167000,
+    "meta": 1540557225825,
+    "relativePath": "image/default_toggle_checkmark.png"
+  },
+  "c25b9d50-c8fc-4d27-beeb-6e7c1f2e5c0f": {
+    "asset": 1533637167000,
+    "meta": 1540557225839,
+    "relativePath": "image/default_toggle_disabled.png"
+  },
+  "d29077ba-1627-4a72-9579-7b56a235340c": {
+    "asset": 1533637167000,
+    "meta": 1540557225844,
+    "relativePath": "image/default_toggle_normal.png"
+  },
+  "fc09f9bd-2cce-4605-b630-8145ef809ed6": {
+    "asset": 1533637167000,
+    "meta": 1533637167000,
+    "relativePath": "misc"
+  },
+  "b181c1e4-0a72-4a91-bfb0-ae6f36ca60bd": {
+    "asset": 1533637167000,
+    "meta": 1540557225849,
+    "relativePath": "image/default_toggle_pressed.png"
+  },
+  "f6e6dd15-71d1-4ffe-ace7-24fd39942c05": {
+    "asset": 1533637167000,
+    "meta": 1533637167000,
+    "relativePath": "obsolete"
+  },
+  "2be36297-9abb-4fee-8049-9ed5e271da8a": {
+    "asset": 1533637167000,
+    "meta": 1540557225853,
+    "relativePath": "misc/default_video.mp4"
+  },
+  "f743d2b6-b7ea-4c14-a55b-547ed4d0a045": {
+    "asset": 1533637167000,
+    "meta": 1533637167000,
+    "relativePath": "particle"
+  },
+  "b8223619-7e38-47c4-841f-9160c232495a": {
+    "asset": 1533637167000,
+    "meta": 1540557225900,
+    "relativePath": "obsolete/atom.plist"
+  },
+  "b2687ac4-099e-403c-a192-ff477686f4f5": {
+    "asset": 1533637167000,
+    "meta": 1540557225901,
+    "relativePath": "particle/atom.plist"
+  },
+  "ae6c6c98-11e4-452f-8758-75f5c6a56e83": {
+    "asset": 1533637167000,
+    "meta": 1533637167000,
+    "relativePath": "prefab"
+  },
+  "972b9a4d-47ee-4c74-b5c3-61d8a69bc29f": {
+    "asset": 1533637167000,
+    "meta": 1540557225859,
+    "relativePath": "prefab/button.prefab"
+  },
+  "2c937608-2562-40ea-b264-7395df6f0cea": {
+    "asset": 1533637167000,
+    "meta": 1540557225859,
+    "relativePath": "prefab/canvas.prefab"
+  },
+  "61aeb05b-3b32-452b-8eed-2b76deeed554": {
+    "asset": 1533637167000,
+    "meta": 1540557225861,
+    "relativePath": "prefab/editbox.prefab"
+  },
+  "27756ebb-3d33-44b0-9b96-e858fadd4dd4": {
+    "asset": 1533637167000,
+    "meta": 1540557225862,
+    "relativePath": "prefab/label.prefab"
+  },
+  "785a442c-3ceb-45be-a46e-7317f625f3b9": {
+    "asset": 1533637167000,
+    "meta": 1540557225863,
+    "relativePath": "prefab/layout.prefab"
+  },
+  "ca8401fe-ad6e-41a8-bd46-8e3e4e9945be": {
+    "asset": 1533637167000,
+    "meta": 1540557225865,
+    "relativePath": "prefab/pageview.prefab"
+  },
+  "cd33edea-55f5-46c2-958d-357a01384a36": {
+    "asset": 1533637167000,
+    "meta": 1540557225867,
+    "relativePath": "prefab/particlesystem.prefab"
+  },
+  "5965ffac-69da-4b55-bcde-9225d0613c28": {
+    "asset": 1533637167000,
+    "meta": 1540557225868,
+    "relativePath": "prefab/progressBar.prefab"
+  },
+  "4a37dd57-78cd-4cec-aad4-f11a73d12b63": {
+    "asset": 1533637167000,
+    "meta": 1540557225870,
+    "relativePath": "prefab/richtext.prefab"
+  },
+  "32044bd2-481f-4cf1-a656-e2b2fb1594eb": {
+    "asset": 1533637167000,
+    "meta": 1540557225873,
+    "relativePath": "prefab/scrollview.prefab"
+  },
+  "0004d1cf-a0ad-47d8-ab17-34d3db9d35a3": {
+    "asset": 1533637167000,
+    "meta": 1540557225875,
+    "relativePath": "prefab/slider.prefab"
+  },
+  "1f55e3be-b89b-4b79-88de-47fd31018044": {
+    "asset": 1533637167000,
+    "meta": 1540557225877,
+    "relativePath": "prefab/sprite_splash.prefab"
+  },
+  "96083d03-c332-4a3f-9386-d03e2d19e8ee": {
+    "asset": 1533637167000,
+    "meta": 1540557225879,
+    "relativePath": "prefab/sprite.prefab"
+  },
+  "7de03a80-4457-438d-95a7-3e7cdffd6086": {
+    "asset": 1533637167000,
+    "meta": 1540557225881,
+    "relativePath": "prefab/tiledmap.prefab"
+  },
+  "0d784963-d024-4ea6-a7db-03be0ad63010": {
+    "asset": 1533637167000,
+    "meta": 1540557225883,
+    "relativePath": "prefab/toggle.prefab"
+  },
+  "bf0a434c-84dd-4a8e-a08a-7a36f180cc75": {
+    "asset": 1533637167000,
+    "meta": 1540557225885,
+    "relativePath": "prefab/toggleContainer.prefab"
+  },
+  "d1b8be49-b0a0-435c-83b7-552bed4bbe35": {
+    "asset": 1533637167000,
+    "meta": 1540557225886,
+    "relativePath": "prefab/toggleGroup.prefab"
+  },
+  "232d2782-c4bd-4bb4-9e01-909f03d6d3b9": {
+    "asset": 1533637167000,
+    "meta": 1540557225888,
+    "relativePath": "prefab/videoplayer.prefab"
+  },
+  "8c5001fd-07ee-4a4b-a8a0-63e15195e94d": {
+    "asset": 1533637167000,
+    "meta": 1540557225889,
+    "relativePath": "prefab/webview.prefab"
+  },
+  "09f414f6-2833-4ea4-b220-8e0c2ea01906": {
+    "asset": 1548038812540,
+    "meta": 1540557151795,
+    "relativePath": "resources"
+  },
+  "00c7412d-72f9-4dd1-a380-ccdfcf0c1df4": {
+    "asset": 1543561861684,
+    "meta": 1543561861681,
+    "relativePath": "animation"
+  },
+  "6a60468a-160a-461f-999b-3206c3dd9392": {
+    "asset": 1543561861702,
+    "meta": 1543561861699,
+    "relativePath": "resources/play/apples"
+  },
+  "422e125f-61ba-48c3-9754-4f6aebf6f659": {
+    "asset": 1543561861700,
+    "meta": 1543561861699,
+    "relativePath": "resources/play/apples/icons"
+  },
+  "39d590ad-9204-4964-bc02-5b9296fdfb39": {
+    "asset": 1543561861721,
+    "meta": 1543561861704,
+    "relativePath": "resources/play/boards"
+  },
+  "b7b260fa-2448-43b6-a78b-4553afaef7df": {
+    "asset": 1547882989509,
+    "meta": 1543561861705,
+    "relativePath": "resources/play/boards/icons"
+  },
+  "79a74378-c144-4374-a474-22661afe99fc": {
+    "asset": 1543561861700,
+    "meta": 1544434974507,
+    "relativePath": "resources/play/apples/icons/apple_1.png"
+  },
+  "87fcf512-545e-4995-9284-27acf4695d54": {
+    "asset": 1543561861753,
+    "meta": 1543561861734,
+    "relativePath": "resources/warehouse/knifes"
+  },
+  "113150ae-c4cf-4e38-97f7-e966d59f9421": {
+    "asset": 1543561861752,
+    "meta": 1543561861735,
+    "relativePath": "resources/warehouse/knifes/icons"
+  },
+  "01f67292-f60b-419e-81dc-5e0c5a0fb62d": {
+    "asset": 1543561861705,
+    "meta": 1544434974547,
+    "relativePath": "resources/play/boards/icons/board_2.png"
+  },
+  "6b1204df-69af-4a83-950a-3b533a8db44c": {
+    "asset": 1543561861753,
+    "meta": 1543561861753,
+    "relativePath": "resources/warehouse/knifes/prefabs"
+  },
+  "29f52784-2fca-467b-92e7-8fd9ef8c57b7": {
+    "asset": 1543561861634,
+    "meta": 1540557151761,
+    "relativePath": "scene"
+  },
+  "e08be571-a896-4f50-9d89-a659d517edb3": {
+    "asset": 1543561861634,
+    "meta": 1544434975381,
+    "relativePath": "scene/game_scene.fire"
+  },
+  "4734c20c-0db8-4eb2-92ea-e692f4d70934": {
+    "asset": 1548038812535,
+    "meta": 1540557151763,
+    "relativePath": "script"
+  },
+  "7b81d4e8-ec84-4716-968d-500ac1d78a54": {
+    "asset": 1543561861517,
+    "meta": 1540557151778,
+    "relativePath": "texture"
+  },
+  "0e63bfc3-202a-4c8a-98e7-aaf7fc63ce95": {
+    "asset": 1543561861681,
+    "meta": 1544434977693,
+    "relativePath": "texture/ui/white_bg.png"
+  },
+  "bf3ebc3a-955a-46b1-9c84-5d1e1a09adb1": {
+    "asset": 1543561861766,
+    "meta": 1540557151783,
+    "relativePath": "texture/ui"
+  },
+  "d06ad84e-9541-41ec-8ac8-e7ffa05139a7": {
+    "asset": 1543561861663,
+    "meta": 1544434977461,
+    "relativePath": "texture/ui/boss_icon.png"
+  },
+  "b996dd9e-879f-419c-824a-3ec11026ee9d": {
+    "asset": 1543561861671,
+    "meta": 1544434977617,
+    "relativePath": "texture/ui/main_background.png"
+  },
+  "c884f869-937c-46d6-8d98-3d8959b795a6": {
+    "asset": 1543561861665,
+    "meta": 1544434977500,
+    "relativePath": "texture/ui/gift.png"
+  },
+  "f423b9ee-5707-4646-a9eb-bcfc84ce76bf": {
+    "asset": 1543561861666,
+    "meta": 1544434977511,
+    "relativePath": "texture/ui/half_apple_1.png"
+  },
+  "2b50336e-6212-4bdb-bebc-2e2fd6dc87b2": {
+    "asset": 1543561861667,
+    "meta": 1544434977517,
+    "relativePath": "texture/ui/half_apple_2.png"
+  },
+  "2c7b4cf0-17d2-4f39-bb3c-f898321fda58": {
+    "asset": 1543561861674,
+    "meta": 1544434977619,
+    "relativePath": "texture/ui/play_button.png"
+  },
+  "6068077f-2a2b-473f-987a-020149709df4": {
+    "asset": 1543561861677,
+    "meta": 1544434977658,
+    "relativePath": "texture/ui/settings_icon.png"
+  },
+  "337d83b8-bd63-4f7a-88f7-7062080acd7d": {
+    "asset": 1543561861682,
+    "meta": 1544434974177,
+    "relativePath": "animation/circle_progress_bar_anim.anim"
+  },
+  "bfec6ce5-df19-47ce-b350-185ecb05fdcd": {
+    "asset": 1543561861684,
+    "meta": 1544434974180,
+    "relativePath": "animation/reward_knife_show_anim.anim"
+  },
+  "82470ed4-be7d-418f-936b-fb8f3e41df76": {
+    "asset": 1543561861690,
+    "meta": 1543561861684,
+    "relativePath": "font"
+  },
+  "624b8b3b-b800-45b7-8772-6a52533dcba1": {
+    "asset": 1543561861684,
+    "meta": 1544434974185,
+    "relativePath": "animation/reward_knife_show_background_anim.anim"
+  },
+  "1976a60b-f3d2-4b03-ad27-cdf075d09124": {
+    "asset": 1543561861686,
+    "meta": 1544434974187,
+    "relativePath": "font/MikadoBlack.ttf"
+  },
+  "7a16901b-e328-4621-b8ac-bdedb723315d": {
+    "asset": 1543561861687,
+    "meta": 1544434974189,
+    "relativePath": "font/MikadoBold.ttf"
+  },
+  "1884ec11-0ee2-4a36-8c3c-b6223452d9aa": {
+    "asset": 1543561861689,
+    "meta": 1544434974191,
+    "relativePath": "font/MikadoMedium.ttf"
+  },
+  "14addd6a-8247-4d3b-bad9-0082146ba76e": {
+    "asset": 1543561861690,
+    "meta": 1544434974192,
+    "relativePath": "font/MikadoRegular.ttf"
+  },
+  "bd37af75-a15e-4af8-9102-404b00e18a35": {
+    "asset": 1543561985184,
+    "meta": 1543561861691,
+    "relativePath": "resources/common"
+  },
+  "d51f8dcc-74c3-403f-a7ae-8b244ba99211": {
+    "asset": 1543561861692,
+    "meta": 1544434974335,
+    "relativePath": "resources/common/stage_progress_bar_circle_orange.png"
+  },
+  "a3f53fec-7198-442d-9617-0e7358438bda": {
+    "asset": 1543561861692,
+    "meta": 1544434974325,
+    "relativePath": "resources/common/stage_progress_bar_circle_gray.png"
+  },
+  "79486afa-f8c6-4d77-9839-1b010c858ab8": {
+    "asset": 1543561861693,
+    "meta": 1544434974337,
+    "relativePath": "resources/common/stage_progress_bar_knife_orange.png"
+  },
+  "deb7fb72-e335-4c47-a06d-f1a27df2a4c2": {
+    "asset": 1543561861692,
+    "meta": 1544434974353,
+    "relativePath": "resources/common/stage_progress_bar_knife.png"
+  },
+  "36c90c6d-b656-4c56-8a3d-4340dea882a9": {
+    "asset": 1548038812541,
+    "meta": 1543561861694,
+    "relativePath": "resources/done"
+  },
+  "9196ddd5-8835-454c-949b-3415c9379a5f": {
+    "asset": 1543561861695,
+    "meta": 1544434974358,
+    "relativePath": "resources/done/knives.png"
+  },
+  "03efa8bf-11ba-4cd1-a522-afce467a335e": {
+    "asset": 1548038812541,
+    "meta": 1543561861697,
+    "relativePath": "resources/main"
+  },
+  "304cbd19-a0d6-4b86-8559-ac8c616c6184": {
+    "asset": 1543561861697,
+    "meta": 1544434974367,
+    "relativePath": "resources/done/video.png"
+  },
+  "d0eaade9-124e-468a-a727-f7140ee82c5b": {
+    "asset": 1543561985188,
+    "meta": 1543561861698,
+    "relativePath": "resources/play"
+  },
+  "457ef6a8-58fd-445c-b3ad-10bccc3a08ea": {
+    "asset": 1543561861701,
+    "meta": 1543561861701,
+    "relativePath": "resources/play/apples/pieces"
+  },
+  "16b9af5b-574a-4e6e-9680-1f46fc41b678": {
+    "asset": 1543561861701,
+    "meta": 1544434974508,
+    "relativePath": "resources/play/apples/pieces/apple_piece_1.png"
+  },
+  "6b8b8ec2-f68a-4766-9977-0a795d4a1c03": {
+    "asset": 1543561861704,
+    "meta": 1543561861701,
+    "relativePath": "resources/play/apples/prefab"
+  },
+  "5997fbe6-46d7-497a-b0af-86405739c80c": {
+    "asset": 1543561861702,
+    "meta": 1544434974511,
+    "relativePath": "resources/play/apples/prefab/apple_1.prefab"
+  },
+  "071d9799-813a-408c-b48b-0b47a808bbc3": {
+    "asset": 1543561861703,
+    "meta": 1544434974514,
+    "relativePath": "resources/play/apples/prefab/apple_piece_1.prefab"
+  },
+  "1f695a42-1931-491d-a84f-cffac733aed1": {
+    "asset": 1543561861703,
+    "meta": 1544434974515,
+    "relativePath": "resources/play/apples/prefab/apple_piece_2.prefab"
+  },
+  "8c91a747-8bfe-4a3a-8d40-a1cabccdf3ba": {
+    "asset": 1543561861704,
+    "meta": 1544434974518,
+    "relativePath": "resources/play/apples/prefab/apple_pieces.prefab"
+  },
+  "e6d1a064-1f34-4643-8f53-f18e4013269e": {
+    "asset": 1543561861701,
+    "meta": 1544434974519,
+    "relativePath": "resources/play/apples/pieces/apple_piece_2.png"
+  },
+  "aeb89e32-8235-4888-b962-903e4cabc400": {
+    "asset": 1543561861715,
+    "meta": 1543561861715,
+    "relativePath": "resources/play/boards/particles"
+  },
+  "108e096c-e15e-4379-8853-881d12ce77cf": {
+    "asset": 1543561861718,
+    "meta": 1543561861716,
+    "relativePath": "resources/play/boards/pieces"
+  },
+  "5bb49784-348a-4543-9410-f263c6e50214": {
+    "asset": 1543561861716,
+    "meta": 1544434974698,
+    "relativePath": "resources/play/boards/pieces/board_piece_1.png"
+  },
+  "d33a29ac-53d6-4a7b-a1f7-a76b5790cca0": {
+    "asset": 1543561861717,
+    "meta": 1544434974700,
+    "relativePath": "resources/play/boards/pieces/board_piece_2.png"
+  },
+  "2024a5af-8954-4ccf-a497-10bd9f9372c5": {
+    "asset": 1543561861717,
+    "meta": 1544434974714,
+    "relativePath": "resources/play/boards/pieces/board_piece_3.png"
+  },
+  "6134da08-67e9-4289-8bb3-46c679e691e2": {
+    "asset": 1543561861718,
+    "meta": 1544434974717,
+    "relativePath": "resources/play/boards/pieces/board_piece_4.png"
+  },
+  "bfbfe6cb-cc17-4639-a5f0-70de22f84b24": {
+    "asset": 1543561861721,
+    "meta": 1543561861718,
+    "relativePath": "resources/play/boards/prefabs"
+  },
+  "6d01f6a8-44c3-499c-92f9-8efef0cec74a": {
+    "asset": 1543561861718,
+    "meta": 1544434974719,
+    "relativePath": "resources/play/boards/prefabs/board_piece_1.prefab"
+  },
+  "42bd6aff-7400-44af-8ba0-3742c636458b": {
+    "asset": 1543561861719,
+    "meta": 1544434974719,
+    "relativePath": "resources/play/boards/prefabs/board_piece_2.prefab"
+  },
+  "765cac27-5a76-422b-812c-4479783f2546": {
+    "asset": 1543561861719,
+    "meta": 1544434974721,
+    "relativePath": "resources/play/boards/prefabs/board_piece_3.prefab"
+  },
+  "41ab7e48-ad33-45c0-828c-8826ad307eec": {
+    "asset": 1543561861720,
+    "meta": 1544434974721,
+    "relativePath": "resources/play/boards/prefabs/board_piece_4.prefab"
+  },
+  "d3600bea-a779-47bf-af5c-7f7741d7ba6b": {
+    "asset": 1543561861722,
+    "meta": 1543561861721,
+    "relativePath": "resources/play/boards/sound"
+  },
+  "0d410efe-f38e-4b95-9573-1a6ca46b9183": {
+    "asset": 1543561861721,
+    "meta": 1544434974724,
+    "relativePath": "resources/play/boards/prefabs/board_pieces.prefab"
+  },
+  "4ece1fa4-2427-4df6-93e9-2bf5ab7c901d": {
+    "asset": 1543561861727,
+    "meta": 1543561861722,
+    "relativePath": "resources/play/boards/sound/boss_hit"
+  },
+  "a3b19c48-f848-4163-9cb0-f5f1363b145e": {
+    "asset": 1543561861722,
+    "meta": 1544434974728,
+    "relativePath": "resources/play/boards/sound/boss_hit/boss_hit_apple_pie.mp3"
+  },
+  "2cee8e62-f050-4c0d-ba8a-68dfb947adef": {
+    "asset": 1543561861723,
+    "meta": 1544434974731,
+    "relativePath": "resources/play/boards/sound/boss_hit/boss_hit_donut.mp3"
+  },
+  "713aa740-bf3e-482c-8105-619f3c65e6e3": {
+    "asset": 1543561861723,
+    "meta": 1544434974735,
+    "relativePath": "resources/play/boards/sound/boss_hit/boss_hit_fortune_wheel.mp3"
+  },
+  "cd059d3a-24dc-4308-9065-b43d5c97609f": {
+    "asset": 1543561861724,
+    "meta": 1544434974737,
+    "relativePath": "resources/play/boards/sound/boss_hit/boss_hit_ice_cube.mp3"
+  },
+  "623ab202-06a3-4d58-a64b-5b0c5167c09d": {
+    "asset": 1543561861724,
+    "meta": 1544434974741,
+    "relativePath": "resources/play/boards/sound/boss_hit/boss_hit_ladybird.mp3"
+  },
+  "1a981708-8a73-42e8-97d3-c33be2e4d8bf": {
+    "asset": 1543561861725,
+    "meta": 1544434974743,
+    "relativePath": "resources/play/boards/sound/boss_hit/boss_hit_soda_can.mp3"
+  },
+  "1e49bb4c-a503-4ada-8633-abf2cb49c318": {
+    "asset": 1543561861726,
+    "meta": 1544434974754,
+    "relativePath": "resources/play/boards/sound/boss_hit/boss_hit_sushi_roll.mp3"
+  },
+  "6f460cc1-5ae0-4a29-bf06-6da674a51872": {
+    "asset": 1543561861725,
+    "meta": 1544434974747,
+    "relativePath": "resources/play/boards/sound/boss_hit/boss_hit_steak.mp3"
+  },
+  "58405b69-832b-44bc-90db-8ffe77f7b883": {
+    "asset": 1543561861726,
+    "meta": 1544434974760,
+    "relativePath": "resources/play/boards/sound/boss_hit/boss_hit_tire.mp3"
+  },
+  "5159b06c-d5b8-4191-80a7-939e4fe12176": {
+    "asset": 1543561861727,
+    "meta": 1544434974760,
+    "relativePath": "resources/play/boards/sound/boss_hit/boss_hit_tomato.mp3"
+  },
+  "ecc93bd1-db7b-4f07-852b-d53aea093582": {
+    "asset": 1543561861732,
+    "meta": 1543561861730,
+    "relativePath": "resources/settings"
+  },
+  "b02aa73c-5484-4cba-bfdf-1ec26c953a8e": {
+    "asset": 1543561861731,
+    "meta": 1544434974782,
+    "relativePath": "resources/settings/page_setting.prefab"
+  },
+  "86ef9d53-a2a1-4277-b536-1f0b8aae7e5c": {
+    "asset": 1543561861732,
+    "meta": 1544434974792,
+    "relativePath": "resources/settings/setting_switch_off.png"
+  },
+  "281bea81-a7d9-4804-9500-7532cd0ed01c": {
+    "asset": 1543561985189,
+    "meta": 1543561861733,
+    "relativePath": "resources/warehouse"
+  },
+  "6dd34b22-9b09-41a0-bae1-c7e1af188879": {
+    "asset": 1543561861733,
+    "meta": 1544434974798,
+    "relativePath": "resources/warehouse/dialog_lottery.prefab"
+  },
+  "f9875dc6-e2e6-4c08-a6ae-d9dec2b4b7b7": {
+    "asset": 1543561861732,
+    "meta": 1544434974793,
+    "relativePath": "resources/settings/setting_switch_on.png"
+  },
+  "2d1f71b0-28d1-44f6-8fb7-a13f0d6da028": {
+    "asset": 1543561861734,
+    "meta": 1544434974800,
+    "relativePath": "resources/warehouse/dialog_reward.prefab"
+  },
+  "1c27964d-f6d9-4103-92bf-ec7a4e38bfcf": {
+    "asset": 1543561861741,
+    "meta": 1544434974870,
+    "relativePath": "resources/warehouse/knifes/icons/knife_15.png"
+  },
+  "83064c7a-850a-488a-ac56-0698f9851a60": {
+    "asset": 1543561861745,
+    "meta": 1544434974922,
+    "relativePath": "resources/warehouse/knifes/icons/knife_21.png"
+  },
+  "ee0d8697-8d98-46b5-be77-a2ff6ffc1cb3": {
+    "asset": 1543561985189,
+    "meta": 1544434975042,
+    "relativePath": "resources/warehouse/page_warehouse.prefab"
+  },
+  "13ce72b4-d08e-42b1-ae93-7838df95f37a": {
+    "asset": 1543561861755,
+    "meta": 1544434975043,
+    "relativePath": "resources/warehouse/view_knife_page.prefab"
+  },
+  "4dce50b4-4d79-44cf-a81f-997919bdb945": {
+    "asset": 1543561985175,
+    "meta": 1543561861639,
+    "relativePath": "script/components"
+  },
+  "b961a4ce-7bc9-4bd9-94d2-e25d4d2d3cd5": {
+    "asset": 1543561861657,
+    "meta": 1543561861643,
+    "relativePath": "script/modules"
+  },
+  "1b63ef87-0c6b-4ec3-b6bf-2abf17c400da": {
+    "asset": 1548038828643,
+    "meta": 1543561861643,
+    "relativePath": "script/modules/bridge"
+  },
+  "e50ed2b7-1888-428e-b3d4-b2de98dfe8a3": {
+    "asset": 1548038812537,
+    "meta": 1543561861645,
+    "relativePath": "script/modules/done"
+  },
+  "9b49dc99-6c49-4b96-b3c5-ef6c321936c4": {
+    "asset": 1543561985178,
+    "meta": 1543561861647,
+    "relativePath": "script/modules/main"
+  },
+  "803839d0-a1d0-4f30-86fa-8f822d278151": {
+    "asset": 1543561985181,
+    "meta": 1543561861649,
+    "relativePath": "script/modules/play"
+  },
+  "4b2891e2-7a6f-4aaa-b22c-f25bc091c712": {
+    "asset": 1543561985181,
+    "meta": 1543561861656,
+    "relativePath": "script/modules/settings"
+  },
+  "0a8800f2-38ec-4e9c-afaa-a4153f59a295": {
+    "asset": 1548038812538,
+    "meta": 1543561861657,
+    "relativePath": "script/modules/warehouse"
+  },
+  "ebde87dc-2627-4120-bbc3-71e3f0bd23c6": {
+    "asset": 1543561861764,
+    "meta": 1543561861756,
+    "relativePath": "sound"
+  },
+  "b0b372f6-1048-4e61-8c1d-a6cf866c3396": {
+    "asset": 1543561861757,
+    "meta": 1543561861756,
+    "relativePath": "sound/common"
+  },
+  "652b6cde-b264-4a56-9c3b-7736a505cb15": {
+    "asset": 1543561861757,
+    "meta": 1544434977439,
+    "relativePath": "sound/common/get_something.mp3"
+  },
+  "87c76792-0b4f-4bd3-bffb-2be4917d6a7f": {
+    "asset": 1543561861757,
+    "meta": 1544434977439,
+    "relativePath": "sound/common/click_button.mp3"
+  },
+  "7016cb35-e47b-4898-889f-8e192c0ef401": {
+    "asset": 1543561861758,
+    "meta": 1543561861758,
+    "relativePath": "sound/continue"
+  },
+  "1a1b9daf-f91d-4ac7-8454-02592f19a7b2": {
+    "asset": 1543561861764,
+    "meta": 1543561861759,
+    "relativePath": "sound/play"
+  },
+  "34ce8669-dd9d-4620-8146-e09b9ee6bc6e": {
+    "asset": 1543561861758,
+    "meta": 1544434977442,
+    "relativePath": "sound/continue/continue_countdown.mp3"
+  },
+  "dcf34991-b1c9-4135-86f2-cc831b1c04c3": {
+    "asset": 1543561861761,
+    "meta": 1544434977443,
+    "relativePath": "sound/play/boss_appear.mp3"
+  },
+  "27543e95-d5c2-42aa-ae12-cb65a63fa3ce": {
+    "asset": 1543561861762,
+    "meta": 1544434977445,
+    "relativePath": "sound/play/boss_defeated.mp3"
+  },
+  "9449692d-a1b4-4370-b4ae-4a7a7ddb5e49": {
+    "asset": 1543561861761,
+    "meta": 1544434977446,
+    "relativePath": "sound/play/boss_break.mp3"
+  },
+  "2f785344-7d50-476a-84c3-49826c58a08f": {
+    "asset": 1543561861762,
+    "meta": 1544434977448,
+    "relativePath": "sound/play/hit_apple.mp3"
+  },
+  "c7fbdf1b-654b-41c7-8833-e648d94ee19e": {
+    "asset": 1543561861762,
+    "meta": 1544434977449,
+    "relativePath": "sound/play/hit_normal_wood.mp3"
+  },
+  "c9d7f566-8652-4e7b-962a-8f486a863ec0": {
+    "asset": 1543561861763,
+    "meta": 1544434977451,
+    "relativePath": "sound/play/knife_hit.mp3"
+  },
+  "462f8502-14ab-47c1-8187-84226802e615": {
+    "asset": 1543561861763,
+    "meta": 1544434977451,
+    "relativePath": "sound/play/throw.mp3"
+  },
+  "46829cd9-81ea-4daa-bd7c-316f12776133": {
+    "asset": 1543561861764,
+    "meta": 1543561861764,
+    "relativePath": "sound/warehouse"
+  },
+  "34e8daa5-c864-46a1-8153-91c7a2cc7abe": {
+    "asset": 1543561861764,
+    "meta": 1544434977454,
+    "relativePath": "sound/play/wood_break.mp3"
+  },
+  "dc20e2da-4d72-489f-ba5e-d11a64206c87": {
+    "asset": 1543561861764,
+    "meta": 1544434977454,
+    "relativePath": "sound/warehouse/slide_knife.mp3"
+  },
+  "70893aee-1417-4f99-a6f7-164e714c8807": {
+    "asset": 1543561861664,
+    "meta": 1544434977475,
+    "relativePath": "texture/ui/coin_button_pressed.png"
+  },
+  "9f47a1b6-8a12-48af-9775-e2f4bdc5f925": {
+    "asset": 1543561861663,
+    "meta": 1544434977474,
+    "relativePath": "texture/ui/coin_button.png"
+  },
+  "0e467d2e-78fc-4563-844f-dba76225293a": {
+    "asset": 1543561861664,
+    "meta": 1544434977483,
+    "relativePath": "texture/ui/coins.png"
+  },
+  "a633e877-cbed-4db3-8b14-2f595b16b05d": {
+    "asset": 1543561861765,
+    "meta": 1544434977487,
+    "relativePath": "texture/ui/continue_knive.png"
+  },
+  "13d5abb8-bc92-43cd-8183-64ad98540e12": {
+    "asset": 1543561861665,
+    "meta": 1544434977493,
+    "relativePath": "texture/ui/equip_button_pressed.png"
+  },
+  "83704b60-0a7d-4739-ae31-6e913315e22a": {
+    "asset": 1543561861665,
+    "meta": 1544434977498,
+    "relativePath": "texture/ui/equip_button.png"
+  },
+  "4c85bd1c-ad57-48ee-8152-948b9721c307": {
+    "asset": 1543561861666,
+    "meta": 1544434977521,
+    "relativePath": "texture/ui/half_apple.png"
+  },
+  "09814fbc-7950-476c-9c0a-34f8331e2362": {
+    "asset": 1543561861667,
+    "meta": 1544434977527,
+    "relativePath": "texture/ui/icon_close.png"
+  },
+  "6534bfc4-c2ce-476d-925f-0205ddde7d85": {
+    "asset": 1543561861669,
+    "meta": 1544434977559,
+    "relativePath": "texture/ui/knife_show_boss_bg.png"
+  },
+  "61228bf3-da63-45fa-9c56-a7b8bcfff3cd": {
+    "asset": 1543561861670,
+    "meta": 1544434977551,
+    "relativePath": "texture/ui/left_back_triangle.png"
+  },
+  "ad8f1243-9c4e-4786-9498-e6ae84256420": {
+    "asset": 1543561861668,
+    "meta": 1544434977545,
+    "relativePath": "texture/ui/knife_show_boss.png"
+  },
+  "c11b747a-cdcc-4cad-84e4-bd7d9696a281": {
+    "asset": 1543561861673,
+    "meta": 1544434977590,
+    "relativePath": "texture/ui/main_logo.png"
+  },
+  "8f7c8076-b60b-42fa-bfe3-60653259ac87": {
+    "asset": 1543561861675,
+    "meta": 1544434977605,
+    "relativePath": "texture/ui/play_button_pressed.png"
+  },
+  "511822c8-6ceb-4955-a377-8617d6cf77b0": {
+    "asset": 1543561861676,
+    "meta": 1544434977628,
+    "relativePath": "texture/ui/radom_button_pressed.png"
+  },
+  "efe8f481-0e85-4820-b839-14f25936e39e": {
+    "asset": 1543561861675,
+    "meta": 1544434977629,
+    "relativePath": "texture/ui/radom_button.png"
+  },
+  "0f6176ce-f020-4b7a-8ab1-18b15373aebb": {
+    "asset": 1543561861676,
+    "meta": 1544434977660,
+    "relativePath": "texture/ui/reward_dialog_bg.png"
+  },
+  "cd364965-edd4-4e63-afba-c1dc1cbe5a12": {
+    "asset": 1543561861677,
+    "meta": 1544434977644,
+    "relativePath": "texture/ui/ring.png"
+  },
+  "7f8ab093-8432-4a28-b0e8-274c58bae8a6": {
+    "asset": 1543561861765,
+    "meta": 1544434977650,
+    "relativePath": "texture/ui/settings_bg.png"
+  },
+  "4ff5bc28-0f99-4975-8462-26a2b36a12e1": {
+    "asset": 1543561861678,
+    "meta": 1544434977669,
+    "relativePath": "texture/ui/text_background.png"
+  },
+  "124d2205-5294-4660-aa42-74da1d01fbc6": {
+    "asset": 1543561861679,
+    "meta": 1544434977668,
+    "relativePath": "texture/ui/tools_big.png"
+  },
+  "e8df9f79-0af2-4940-9acd-d83ccb4673c3": {
+    "asset": 1543561861678,
+    "meta": 1544434977676,
+    "relativePath": "texture/ui/tools.png"
+  },
+  "371a4d25-400d-4dcb-b402-fc0bf518c000": {
+    "asset": 1543561861680,
+    "meta": 1544434977678,
+    "relativePath": "texture/ui/unlock_button_pressed.png"
+  },
+  "a69782ba-41df-4b6f-89e8-64e25801aa71": {
+    "asset": 1543561861679,
+    "meta": 1544434977687,
+    "relativePath": "texture/ui/unlock_button.png"
+  },
+  "467b833d-78bb-4130-bb20-5b06dffcbc1b": {
+    "asset": 1543561861680,
+    "meta": 1544434977685,
+    "relativePath": "texture/ui/video.png"
+  },
+  "26b3dd47-218b-4222-9d25-914cbd109763": {
+    "asset": 1543561861766,
+    "meta": 1544434977712,
+    "relativePath": "texture/ui/warehouse_light.png"
+  },
+  "24167297-af7e-465f-8b47-08cf4a4a645b": {
+    "asset": 1548038828639,
+    "meta": 1543561861636,
+    "relativePath": "script/Utils"
+  },
+  "492488b7-c6b0-4357-a5b0-78bb95538d01": {
+    "asset": 1543561861636,
+    "meta": 1544434977377,
+    "relativePath": "script/Utils/ConfigUtil.ts"
+  },
+  "f92f162a-b8bb-4272-902a-a7c9e2dffda9": {
+    "asset": 1543561861638,
+    "meta": 1544434977397,
+    "relativePath": "script/Utils/localforage.js"
+  },
+  "6f5067d8-5770-402b-98b9-90d532a6f2d8": {
+    "asset": 1543561861637,
+    "meta": 1544434977435,
+    "relativePath": "script/Utils/StorageUtils.ts"
+  },
+  "8973ce7f-0483-4a56-9c8b-d55dc2964765": {
+    "asset": 1543561861637,
+    "meta": 1544434977435,
+    "relativePath": "script/Utils/ResourceUtil.ts"
+  },
+  "69ecabe7-4e5f-4a05-9b51-d778b251bb4d": {
+    "asset": 1543561861707,
+    "meta": 1544434974576,
+    "relativePath": "resources/play/boards/icons/board_boss_10.png"
+  },
+  "6779763e-b485-47f0-adf6-1e5deb9827d8": {
+    "asset": 1543561861736,
+    "meta": 1544434974817,
+    "relativePath": "resources/warehouse/knifes/icons/knife_1.png"
+  },
+  "d1167bdb-a129-4241-9312-daedb13d8ed7": {
+    "asset": 1543561861737,
+    "meta": 1544434974816,
+    "relativePath": "resources/warehouse/knifes/icons/knife_10.png"
+  },
+  "1ac13427-4956-4210-ab8b-96e2cb84b35a": {
+    "asset": 1543561861715,
+    "meta": 1544434977722,
+    "relativePath": "resources/play/boards/particles/spark.plist"
+  },
+  "244951aa-dc4d-41c7-9cee-64155da1bbe5": {
+    "asset": 1543561861738,
+    "meta": 1544434974832,
+    "relativePath": "resources/warehouse/knifes/icons/knife_11.png"
+  },
+  "45cc947d-3b15-4487-b6f7-cc6adff1f0eb": {
+    "asset": 1543561861739,
+    "meta": 1544434974834,
+    "relativePath": "resources/warehouse/knifes/icons/knife_12.png"
+  },
+  "05025325-80e9-4154-958a-aa68027fcd90": {
+    "asset": 1543561861740,
+    "meta": 1544434974852,
+    "relativePath": "resources/warehouse/knifes/icons/knife_14.png"
+  },
+  "f9d11e18-5115-4fcb-815e-46989d3bd7ea": {
+    "asset": 1543561861740,
+    "meta": 1544434974853,
+    "relativePath": "resources/warehouse/knifes/icons/knife_13.png"
+  },
+  "824c72b0-bf27-4b6d-8d78-af34a47054c3": {
+    "asset": 1543561861741,
+    "meta": 1544434974872,
+    "relativePath": "resources/warehouse/knifes/icons/knife_16.png"
+  },
+  "64bcf900-875c-427c-92b2-25fe3ed1e9c0": {
+    "asset": 1543561861742,
+    "meta": 1544434974887,
+    "relativePath": "resources/warehouse/knifes/icons/knife_17.png"
+  },
+  "f94fd1e8-fc94-475d-abf8-d899bc727c6a": {
+    "asset": 1543561861743,
+    "meta": 1544434974889,
+    "relativePath": "resources/warehouse/knifes/icons/knife_18.png"
+  },
+  "6b5776d6-f664-4f57-8e5b-f3654f9e0285": {
+    "asset": 1543561861743,
+    "meta": 1544434974905,
+    "relativePath": "resources/warehouse/knifes/icons/knife_19.png"
+  },
+  "064c850f-fd12-440b-91e2-bbad731798bf": {
+    "asset": 1543561861745,
+    "meta": 1544434974922,
+    "relativePath": "resources/warehouse/knifes/icons/knife_20.png"
+  },
+  "e4b47741-01d7-45dd-a65f-54924b9bfaf2": {
+    "asset": 1543561861744,
+    "meta": 1544434974906,
+    "relativePath": "resources/warehouse/knifes/icons/knife_2.png"
+  },
+  "909f8530-9db7-4901-9cce-cd9ee6c04387": {
+    "asset": 1543561861746,
+    "meta": 1544434974940,
+    "relativePath": "resources/warehouse/knifes/icons/knife_23.png"
+  },
+  "aa98462d-589e-4db0-8faf-b00ef04ad6ca": {
+    "asset": 1543561861746,
+    "meta": 1544434974938,
+    "relativePath": "resources/warehouse/knifes/icons/knife_22.png"
+  },
+  "f38a3d28-6e60-4298-aabf-73935cb05554": {
+    "asset": 1543561861747,
+    "meta": 1544434974955,
+    "relativePath": "resources/warehouse/knifes/icons/knife_24.png"
+  },
+  "b5abefe5-7b04-4f27-a2ee-cef11e0fcbf8": {
+    "asset": 1543561861748,
+    "meta": 1544434974958,
+    "relativePath": "resources/warehouse/knifes/icons/knife_25.png"
+  },
+  "0d94d5dc-8aef-4fc8-b678-42b054ecc04a": {
+    "asset": 1543561861749,
+    "meta": 1544434974975,
+    "relativePath": "resources/warehouse/knifes/icons/knife_3.png"
+  },
+  "080a0bdf-e12b-49ab-9028-61bcb8c99bf5": {
+    "asset": 1543561861748,
+    "meta": 1544434974974,
+    "relativePath": "resources/warehouse/knifes/icons/knife_26.png"
+  },
+  "6f4feb7c-2ce6-4f22-937f-eaa2e05e53a7": {
+    "asset": 1543561861749,
+    "meta": 1544434974992,
+    "relativePath": "resources/warehouse/knifes/icons/knife_4.png"
+  },
+  "b49eb718-c899-46a2-8602-b4e6f4f4b50a": {
+    "asset": 1543561861750,
+    "meta": 1544434974994,
+    "relativePath": "resources/warehouse/knifes/icons/knife_5.png"
+  },
+  "cec30d1c-3b11-457a-a7b2-c12e064ca790": {
+    "asset": 1543561861750,
+    "meta": 1544434975012,
+    "relativePath": "resources/warehouse/knifes/icons/knife_6.png"
+  },
+  "2e1d3b3c-09ec-48c7-867a-986f4c557604": {
+    "asset": 1543561861751,
+    "meta": 1544434975010,
+    "relativePath": "resources/warehouse/knifes/icons/knife_7.png"
+  },
+  "aea68f8d-377e-4c0e-8c2a-5f6bb1f47ad2": {
+    "asset": 1543561861752,
+    "meta": 1544434975035,
+    "relativePath": "resources/warehouse/knifes/icons/knife_8.png"
+  },
+  "46ba5842-aeda-43d9-9382-8217f76956ed": {
+    "asset": 1543561861752,
+    "meta": 1544434975036,
+    "relativePath": "resources/warehouse/knifes/icons/knife_9.png"
+  },
+  "a9e17bdc-d59a-4bf0-9fb6-fe250e168ef8": {
+    "asset": 1543561861640,
+    "meta": 1544434975668,
+    "relativePath": "script/components/ApplePartsControlComponent.ts"
+  },
+  "374a9af6-4339-4382-981a-996d90ab1e59": {
+    "asset": 1543561861642,
+    "meta": 1544434975766,
+    "relativePath": "script/components/StageProgressBarComponent.ts"
+  },
+  "6e3abf25-619e-4906-b3e6-820a07c49b70": {
+    "asset": 1543561861651,
+    "meta": 1544434976034,
+    "relativePath": "script/modules/play/BoardControlComponent.ts"
+  },
+  "290e677e-cfcc-4800-baac-747960556a38": {
+    "asset": 1543561861652,
+    "meta": 1544434976122,
+    "relativePath": "script/modules/play/BoardPartsControlComponent.ts"
+  },
+  "83649ee1-d780-45fb-9932-e5db71f9d59b": {
+    "asset": 1543561861756,
+    "meta": 1544434976328,
+    "relativePath": "script/modules/settings/SwitchControlComponent.ts"
+  },
+  "f3c198fe-a06b-4157-81ce-0b5f8d34278d": {
+    "asset": 1543561861659,
+    "meta": 1544434976470,
+    "relativePath": "script/modules/warehouse/KnifeWarehousePageViewComponent.ts"
+  },
+  "124225c8-f16c-4060-a3d4-47d24fcfbdba": {
+    "asset": 1543561861660,
+    "meta": 1544434976489,
+    "relativePath": "script/modules/warehouse/LotteryComponent.ts"
+  },
+  "9f162e5e-7640-469d-afad-f76bc6d15e35": {
+    "asset": 1543561861640,
+    "meta": 1544434975714,
+    "relativePath": "script/components/FallingControlComponent.ts"
+  },
+  "294fc4a8-097c-4976-8f05-b486cf824578": {
+    "asset": 1543561861650,
+    "meta": 1544434976009,
+    "relativePath": "script/modules/play/AppleControlComponent.ts"
+  },
+  "1e3ac606-c2cf-48d4-8801-8423fa29dbfc": {
+    "asset": 1543561861682,
+    "meta": 1544434974174,
+    "relativePath": "animation/boss_text_show_anim.anim"
+  },
+  "7a8e4a6c-f0fd-4ffb-94a6-4f82cb5ea37e": {
+    "asset": 1543561861683,
+    "meta": 1544434974178,
+    "relativePath": "animation/knife_show_anim.anim"
+  },
+  "475046c0-86d9-4ea2-add9-e370c1a1f6ec": {
+    "asset": 1543561861684,
+    "meta": 1544434974179,
+    "relativePath": "animation/knife_show_background_anim.anim"
+  },
+  "cc96f026-e935-4a50-b232-54d65cadc851": {
+    "asset": 1543561861661,
+    "meta": 1544434976490,
+    "relativePath": "script/modules/warehouse/RewardComponent.ts"
+  },
+  "649f536e-9990-4397-a212-7ed53d0c9014": {
+    "asset": 1543561861673,
+    "meta": 1544434977595,
+    "relativePath": "texture/ui/mask_bg.png"
+  },
+  "432221b3-e458-4c95-93e9-63d026a04f64": {
+    "asset": 1543561861662,
+    "meta": 1544434977462,
+    "relativePath": "texture/ui/black_bg.jpg"
+  },
+  "e4783b50-e366-4127-bede-f41afab4fc5a": {
+    "asset": 1543561861753,
+    "meta": 1544434975038,
+    "relativePath": "resources/warehouse/knifes/prefabs/knife_1.prefab"
+  },
+  "56e374a0-c239-4dcb-ad75-a5144308b0f0": {
+    "asset": 1548038812541,
+    "meta": 1548038850978,
+    "relativePath": "resources/done/page_done.prefab"
+  },
+  "accc4afb-8f98-49ab-8d97-0a7354c80f45": {
+    "asset": 1548038812540,
+    "meta": 1548038850971,
+    "relativePath": "resources/config.json"
+  },
+  "60afb0c5-05e5-4fc3-9854-57d97e379e53": {
+    "asset": 1543561985182,
+    "meta": 1544434976327,
+    "relativePath": "script/modules/settings/SettingComponent.ts"
+  },
+  "8c5eb202-b17a-4a29-9efa-b441daee8924": {
+    "asset": 1548038812542,
+    "meta": 1548038851262,
+    "relativePath": "resources/main/page_main.prefab"
+  },
+  "82389b77-afcd-40d0-a0d5-ec1fbf321aea": {
+    "asset": 1543561861728,
+    "meta": 1544434974775,
+    "relativePath": "resources/play/knife_icon_used.png"
+  },
+  "04e2a2ae-f701-48dc-8327-c0b95837aab1": {
+    "asset": 1543561861727,
+    "meta": 1544434974774,
+    "relativePath": "resources/play/knife_icon.png"
+  },
+  "051ecae4-f843-44b0-a252-8c717cb3c416": {
+    "asset": 1543561985189,
+    "meta": 1544434974780,
+    "relativePath": "resources/play/page_play.prefab"
+  },
+  "f92d704e-63e2-4dc7-a4fe-6d6a16105475": {
+    "asset": 1543561985180,
+    "meta": 1544434976268,
+    "relativePath": "script/modules/play/KnifeControlComponent.ts"
+  },
+  "65fed286-cbaa-43df-974b-6b26a98b18e8": {
+    "asset": 1543561985181,
+    "meta": 1544434976293,
+    "relativePath": "script/modules/play/RemainedKnifesComponent.ts"
+  },
+  "bb63311d-6802-44c1-a18b-f33764c92c39": {
+    "asset": 1543561985175,
+    "meta": 1544434975746,
+    "relativePath": "script/components/GiftComponent.ts"
+  },
+  "8fcc3d8f-74a6-44c2-98ee-54f30c278ccb": {
+    "asset": 1543561985180,
+    "meta": 1544434976292,
+    "relativePath": "script/modules/play/PlayStageControlComponent.ts"
+  },
+  "b813da3b-8f1b-4724-bb6d-5d4a7f693c15": {
+    "asset": 1543561985184,
+    "meta": 1544434974328,
+    "relativePath": "resources/common/ad.png"
+  },
+  "2dc43e21-9f87-48e0-93c4-5cff7ef79320": {
+    "asset": 1545132678586,
+    "meta": 1545132682802,
+    "relativePath": "script/modules/main/MainControlComponent.ts"
+  },
+  "c20fbd4e-6507-4a8b-a5e9-7e05d2aab658": {
+    "asset": 1548038812540,
+    "meta": 1548038850975,
+    "relativePath": "resources/done/page_continue.prefab"
+  },
+  "a606309f-f1ca-466d-832d-595632fd34a0": {
+    "asset": 1548038812535,
+    "meta": 1548038851374,
+    "relativePath": "script/Constants.ts"
+  },
+  "3925223c-f474-425c-b5da-e9d685a17938": {
+    "asset": 1548038812536,
+    "meta": 1548038851526,
+    "relativePath": "script/modules/bridge/JSInterfaceUtils.ts"
+  },
+  "00ac992f-32ae-4cc1-9b82-40a90aeae5dd": {
+    "asset": 1548038812537,
+    "meta": 1548038851650,
+    "relativePath": "script/modules/done/ContinueComponent.ts"
+  },
+  "ec0def3d-c933-4316-8e27-b1e9302c1630": {
+    "asset": 1548038812538,
+    "meta": 1548038851651,
+    "relativePath": "script/modules/done/DoneComponent.ts"
+  },
+  "103b7e6e-d82e-4027-8937-64041995527c": {
+    "asset": 1548038812538,
+    "meta": 1548038851752,
+    "relativePath": "script/modules/warehouse/KnifeWarehouseComponent.ts"
+  },
+  "ee85152d-d26d-45cb-8e71-6d824ab15c39": {
+    "asset": 1548038812535,
+    "meta": 1548038851290,
+    "relativePath": "script/AppComponent.ts"
+  },
+  "d32868a7-3517-4e2f-bfe2-4a6349fe6f71": {
+    "asset": 1547882989504,
+    "meta": 1547883009541,
+    "relativePath": "resources/play/boards/icons/board_boss_1.png"
+  },
+  "0e81e3eb-f360-46a0-b50b-973adc0b8ea5": {
+    "asset": 1547882989505,
+    "meta": 1547883009542,
+    "relativePath": "resources/play/boards/icons/board_boss_2.png"
+  },
+  "0d95d1dd-6632-4d63-b772-8bfc240675e7": {
+    "asset": 1547882989505,
+    "meta": 1547883009562,
+    "relativePath": "resources/play/boards/icons/board_boss_3.png"
+  },
+  "6d451a8a-2a12-42d1-ab45-479ed276cc70": {
+    "asset": 1547882989506,
+    "meta": 1547883009564,
+    "relativePath": "resources/play/boards/icons/board_boss_4.png"
+  },
+  "07c454d8-6339-4121-9cad-071fa123da37": {
+    "asset": 1547882989506,
+    "meta": 1547883009586,
+    "relativePath": "resources/play/boards/icons/board_boss_5.png"
+  },
+  "8d67c015-9521-4a65-9626-791ce906058a": {
+    "asset": 1547882989506,
+    "meta": 1547883009587,
+    "relativePath": "resources/play/boards/icons/board_boss_6.png"
+  },
+  "594c2df7-4174-4c4d-abc9-bb635513832a": {
+    "asset": 1547882989507,
+    "meta": 1547883009606,
+    "relativePath": "resources/play/boards/icons/board_boss_7.png"
+  },
+  "753f47a8-eef2-48a9-9687-9f1788fe2c11": {
+    "asset": 1547882989507,
+    "meta": 1547883009607,
+    "relativePath": "resources/play/boards/icons/board_boss_8.png"
+  },
+  "91e1baa3-c19d-44d7-8f84-6f3e18d269f9": {
+    "asset": 1547882989508,
+    "meta": 1547883009630,
+    "relativePath": "resources/play/boards/icons/board_boss_9.png"
+  },
+  "3fbfc55f-c4bc-4f13-8f69-7c2922ef1440": {
+    "asset": 1547882989509,
+    "meta": 1547883009631,
+    "relativePath": "resources/play/boards/icons/board_white.png"
+  },
+  "6990096b-a0b8-4e07-88e6-8228a0b27377": {
+    "asset": 1543561852659,
+    "meta": 1548038850784,
+    "relativePath": "Lib_CocosFramework_JS"
+  },
+  "fc22eb89-acb1-4b0d-b4d2-4a7b6153cb75": {
+    "asset": 1548038812536,
+    "meta": 1548038851527,
+    "relativePath": "script/modules/bridge/PlatformCallJS.ts"
+  }
+}

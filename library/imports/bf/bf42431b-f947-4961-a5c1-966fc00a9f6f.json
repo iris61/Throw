@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "knife_icon_used",
+    "texture": "82389b77-afcd-40d0-a0d5-ec1fbf321aea",
+    "atlas": "",
+    "rect": [
+      6,
+      9,
+      85,
+      82
+    ],
+    "offset": [
+      0.5,
+      -2
+    ],
+    "originalSize": [
+      96,
+      96
+    ]
+  }
+}

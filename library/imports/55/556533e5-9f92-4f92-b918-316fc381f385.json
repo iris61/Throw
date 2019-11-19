@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "equip_button_pressed",
+    "texture": "13d5abb8-bc92-43cd-8183-64ad98540e12",
+    "atlas": "",
+    "rect": [
+      8,
+      8,
+      574,
+      180
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      591,
+      197
+    ]
+  }
+}

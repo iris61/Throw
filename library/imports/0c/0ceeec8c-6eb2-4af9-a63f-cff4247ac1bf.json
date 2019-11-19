@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "stage_progress_bar_circle_gray",
+    "texture": "a3f53fec-7198-442d-9617-0e7358438bda",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      20,
+      20
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      26,
+      26
+    ]
+  }
+}

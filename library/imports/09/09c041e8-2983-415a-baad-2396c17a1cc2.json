@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "coin_button_pressed",
+    "texture": "70893aee-1417-4f99-a6f7-164e714c8807",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      322,
+      180
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      322,
+      180
+    ]
+  }
+}

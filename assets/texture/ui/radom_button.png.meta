@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "efe8f481-0e85-4820-b839-14f25936e39e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "radom_button": {
+      "ver": "1.0.3",
+      "uuid": "4b62ed39-2dbe-4c1b-b7c4-e97b85d4a4f4",
+      "rawTextureUuid": "efe8f481-0e85-4820-b839-14f25936e39e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 515,
+      "height": 180,
+      "rawWidth": 515,
+      "rawHeight": 180,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "knife_show_boss_bg",
+    "texture": "6534bfc4-c2ce-476d-925f-0205ddde7d85",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      994,
+      994
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      994,
+      994
+    ]
+  }
+}

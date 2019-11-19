@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "e6d1a064-1f34-4643-8f53-f18e4013269e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "apple_piece_2": {
+      "ver": "1.0.3",
+      "uuid": "9c9dc036-dd50-4dc7-9a03-609e2f18bf73",
+      "rawTextureUuid": "e6d1a064-1f34-4643-8f53-f18e4013269e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1,
+      "trimX": 0,
+      "trimY": 3,
+      "width": 97,
+      "height": 114,
+      "rawWidth": 97,
+      "rawHeight": 118,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

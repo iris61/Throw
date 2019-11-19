@@ -1,0 +1,2291 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "config",
+  "_objFlags": 0,
+  "_native": "",
+  "json": {
+    "apples": {
+      "apple1": {
+        "resource": "play/apples/icons/apple_1"
+      }
+    },
+    "boards": {
+      "board_boss_6": {
+        "resource": "play/boards/icons/board_boss_6"
+      },
+      "board_boss_7": {
+        "resource": "play/boards/icons/board_boss_7"
+      },
+      "board_boss_8": {
+        "resource": "play/boards/icons/board_boss_8"
+      },
+      "board_boss_1": {
+        "resource": "play/boards/icons/board_boss_1"
+      },
+      "board_boss_9": {
+        "resource": "play/boards/icons/board_boss_9"
+      },
+      "board_boss_2": {
+        "resource": "play/boards/icons/board_boss_2"
+      },
+      "board_boss_10": {
+        "resource": "play/boards/icons/board_boss_10"
+      },
+      "board2": {
+        "resource": "play/boards/icons/board_2"
+      },
+      "board_boss_3": {
+        "resource": "play/boards/icons/board_boss_3"
+      },
+      "board_boss_4": {
+        "resource": "play/boards/icons/board_boss_4"
+      },
+      "board1": {
+        "resource": "play/boards/icons/board_1"
+      },
+      "board_boss_5": {
+        "resource": "play/boards/icons/board_boss_5"
+      }
+    },
+    "stages": {
+      "stageboss6": {
+        "apples": {
+          "items": [
+            {
+              "reference": "apple1",
+              "position": 0
+            },
+            {
+              "reference": "apple1",
+              "position": 30
+            },
+            {
+              "reference": "apple1",
+              "position": 60
+            },
+            {
+              "reference": "apple1",
+              "position": 90
+            }
+          ],
+          "strategy": "static"
+        },
+        "reward": "knife22",
+        "knifes": {
+          "origin": {
+            "items": [
+              {
+                "reference": "knife1",
+                "position": -45
+              }
+            ],
+            "strategy": "static"
+          },
+          "count": 10
+        },
+        "knifeInsertedAudio": "play/boards/sound/boss_hit/boss_hit_ice_cube",
+        "board": {
+          "reference": "board_boss_6",
+          "rotation": [
+            {
+              "interpolator": "linear",
+              "interval": 2,
+              "targetSpeed": 180
+            },
+            {
+              "interpolator": "linear",
+              "interval": 2,
+              "targetSpeed": -180
+            }
+          ]
+        },
+        "boss": "Ice Cube"
+      },
+      "stage16": {
+        "board": {
+          "reference": "board2",
+          "rotation": [
+            {
+              "interpolator": "fixed",
+              "interval": 0.01,
+              "targetSpeed": 180
+            }
+          ]
+        },
+        "knifes": {
+          "origin": {
+            "items": [
+              {
+                "reference": "knife1",
+                "position": 45
+              },
+              {
+                "reference": "knife1",
+                "position": 90
+              },
+              {
+                "reference": "knife1",
+                "position": -90
+              },
+              {
+                "reference": "knife1",
+                "position": -135
+              }
+            ],
+            "strategy": "static"
+          },
+          "count": 9
+        },
+        "apples": {
+          "items": [],
+          "strategy": "static"
+        }
+      },
+      "stage7": {
+        "board": {
+          "reference": "board2",
+          "rotation": [
+            {
+              "targetSpeed": 180,
+              "interval": 1.1,
+              "interpolator": "fixed"
+            },
+            {
+              "targetSpeed": 180,
+              "interval": 1.1,
+              "interpolator": "fixed"
+            },
+            {
+              "targetSpeed": -180,
+              "interval": 1.1,
+              "interpolator": "fixed"
+            },
+            {
+              "targetSpeed": -180,
+              "interval": 1.1,
+              "interpolator": "fixed"
+            }
+          ]
+        },
+        "knifes": {
+          "origin": {
+            "items": [
+              {
+                "reference": "knife1",
+                "position": -180
+              }
+            ],
+            "strategy": "static"
+          },
+          "count": 9
+        },
+        "apples": {
+          "items": [
+            {
+              "reference": "apple1",
+              "position": 180
+            }
+          ],
+          "strategy": "static"
+        }
+      },
+      "stage6": {
+        "board": {
+          "reference": "board2",
+          "rotation": [
+            {
+              "interpolator": "fixed",
+              "interval": 0.01,
+              "targetSpeed": 160
+            }
+          ]
+        },
+        "knifes": {
+          "origin": {
+            "items": [
+              {
+                "reference": "knife1",
+                "position": -90
+              },
+              {
+                "reference": "knife1",
+                "position": -135
+              }
+            ],
+            "strategy": "static"
+          },
+          "count": 7
+        },
+        "apples": {
+          "items": [],
+          "strategy": "static"
+        }
+      },
+      "stageboss4": {
+        "apples": {
+          "items": [
+            {
+              "reference": "apple1",
+              "position": 0
+            },
+            {
+              "reference": "apple1",
+              "position": 30
+            },
+            {
+              "reference": "apple1",
+              "position": 60
+            },
+            {
+              "reference": "apple1",
+              "position": 90
+            }
+          ],
+          "strategy": "static"
+        },
+        "reward": "knife20",
+        "knifes": {
+          "origin": {
+            "items": [
+              {
+                "reference": "knife1",
+                "position": -45
+              }
+            ],
+            "strategy": "static"
+          },
+          "count": 10
+        },
+        "knifeInsertedAudio": "play/boards/sound/boss_hit/boss_hit_donut",
+        "board": {
+          "reference": "board_boss_4",
+          "rotation": [
+            {
+              "interpolator": "linear",
+              "interval": 2,
+              "targetSpeed": 180
+            },
+            {
+              "interpolator": "linear",
+              "interval": 2,
+              "targetSpeed": 0
+            }
+          ]
+        },
+        "boss": "Donut"
+      },
+      "stage44": {
+        "board": {
+          "reference": "board2",
+          "rotation": [
+            {
+              "interpolator": "linear",
+              "interval": 2,
+              "targetSpeed": 450
+            }
+          ]
+        },
+        "knifes": {
+          "origin": {
+            "items": [],
+            "strategy": "static"
+          },
+          "count": 8
+        },
+        "apples": {
+          "items": [
+            {
+              "reference": "apple1",
+              "position": -45
+            },
+            {
+              "reference": "apple1",
+              "position": 0
+            },
+            {
+              "reference": "apple1",
+              "position": 45
+            }
+          ],
+          "strategy": "static"
+        }
+      },
+      "stageboss2": {
+        "apples": {
+          "items": [
+            {
+              "reference": "apple1",
+              "position": 20
+            },
+            {
+              "reference": "apple1",
+              "position": 80
+            }
+          ],
+          "strategy": "static"
+        },
+        "reward": "knife18",
+        "knifes": {
+          "origin": {
+            "items": [],
+            "strategy": "static"
+          },
+          "count": 10
+        },
+        "knifeInsertedAudio": "play/boards/sound/boss_hit/boss_hit_ladybird",
+        "board": {
+          "reference": "board_boss_2",
+          "rotation": [
+            {
+              "interpolator": "linear",
+              "interval": 1,
+              "targetSpeed": -150
+            },
+            {
+              "interpolator": "linear",
+              "interval": 2,
+              "targetSpeed": 150
+            }
+          ]
+        },
+        "boss": "Lady Bird"
+      },
+      "stage34": {
+        "board": {
+          "reference": "board2",
+          "rotation": [
+            {
+              "interpolator": "linear",
+              "interval": 2,
+              "targetSpeed": 450
+            }
+          ]
+        },
+        "knifes": {
+          "origin": {
+            "items": [],
+            "strategy": "static"
+          },
+          "count": 8
+        },
+        "apples": {
+          "items": [
+            {
+              "reference": "apple1",
+              "position": -45
+            },
+            {
+              "reference": "apple1",
+              "position": 0
+            },
+            {
+              "reference": "apple1",
+              "position": 45
+            }
+          ],
+          "strategy": "static"
+        }
+      },
+      "stage4": {
+        "board": {
+          "reference": "board2",
+          "rotation": [
+            {
+              "interpolator": "linear",
+              "interval": 2,
+              "targetSpeed": 120
+            }
+          ]
+        },
+        "knifes": {
+          "origin": {
+            "items": [],
+            "strategy": "static"
+          },
+          "count": 8
+        },
+        "apples": {
+          "items": [
+            {
+              "reference": "apple1",
+              "position": -45
+            },
+            {
+              "reference": "apple1",
+              "position": 0
+            },
+            {
+              "reference": "apple1",
+              "position": 45
+            }
+          ],
+          "strategy": "static"
+        }
+      },
+      "stage49": {
+        "board": {
+          "reference": "board2",
+          "rotation": [
+            {
+              "interpolator": "linear",
+              "interval": 3,
+              "targetSpeed": -360
+            }
+          ]
+        },
+        "knifes": {
+          "origin": {
+            "items": [
+              {
+                "reference": "knife1",
+                "position": 0
+              },
+              {
+                "reference": "knife1",
+                "position": 90
+              },
+              {
+                "reference": "knife1",
+                "position": 180
+              },
+              {
+                "reference": "knife1",
+                "position": 270
+              }
+            ],
+            "strategy": "static"
+          },
+          "count": 10
+        },
+        "apples": {
+          "items": [],
+          "strategy": "static"
+        }
+      },
+      "stageboss9": {
+        "apples": {
+          "items": [
+            {
+              "reference": "apple1",
+              "position": -90
+            },
+            {
+              "reference": "apple1",
+              "position": 60
+            }
+          ],
+          "strategy": "static"
+        },
+        "reward": "knife25",
+        "knifes": {
+          "origin": {
+            "items": [],
+            "strategy": "static"
+          },
+          "count": 10
+        },
+        "knifeInsertedAudio": "play/boards/sound/boss_hit/boss_hit_fortune_wheel",
+        "board": {
+          "reference": "board_boss_9",
+          "rotation": [
+            {
+              "interpolator": "fixed",
+              "interval": 2,
+              "targetSpeed": 270
+            }
+          ]
+        },
+        "boss": "Fortune Wheel"
+      },
+      "stage24": {
+        "board": {
+          "reference": "board2",
+          "rotation": [
+            {
+              "interpolator": "linear",
+              "interval": 2,
+              "targetSpeed": 450
+            }
+          ]
+        },
+        "knifes": {
+          "origin": {
+            "items": [],
+            "strategy": "static"
+          },
+          "count": 8
+        },
+        "apples": {
+          "items": [
+            {
+              "reference": "apple1",
+              "position": -45
+            },
+            {
+              "reference": "apple1",
+              "position": 0
+            },
+            {
+              "reference": "apple1",
+              "position": 45
+            }
+          ],
+          "strategy": "static"
+        }
+      },
+      "stage39": {
+        "board": {
+          "reference": "board2",
+          "rotation": [
+            {
+              "interpolator": "linear",
+              "interval": 3,
+              "targetSpeed": -360
+            }
+          ]
+        },
+        "knifes": {
+          "origin": {
+            "items": [
+              {
+                "reference": "knife1",
+                "position": 0
+              },
+              {
+                "reference": "knife1",
+                "position": 90
+              },
+              {
+                "reference": "knife1",
+                "position": 180
+              },
+              {
+                "reference": "knife1",
+                "position": 270
+              }
+            ],
+            "strategy": "static"
+          },
+          "count": 10
+        },
+        "apples": {
+          "items": [],
+          "strategy": "static"
+        }
+      },
+      "stage3": {
+        "board": {
+          "reference": "board2",
+          "rotation": [
+            {
+              "interpolator": "linear",
+              "interval": 2,
+              "targetSpeed": 120
+            }
+          ]
+        },
+        "knifes": {
+          "origin": {
+            "items": [],
+            "strategy": "static"
+          },
+          "count": 7
+        },
+        "apples": {
+          "items": [
+            {
+              "reference": "apple1",
+              "position": -90
+            },
+            {
+              "reference": "apple1",
+              "position": 90
+            }
+          ],
+          "strategy": "static"
+        }
+      },
+      "stage14": {
+        "board": {
+          "reference": "board2",
+          "rotation": [
+            {
+              "interpolator": "linear",
+              "interval": 2,
+              "targetSpeed": -200
+            }
+          ]
+        },
+        "knifes": {
+          "origin": {
+            "items": [],
+            "strategy": "static"
+          },
+          "count": 8
+        },
+        "apples": {
+          "items": [
+            {
+              "reference": "apple1",
+              "position": -45
+            },
+            {
+              "reference": "apple1",
+              "position": 0
+            },
+            {
+              "reference": "apple1",
+              "position": 45
+            }
+          ],
+          "strategy": "static"
+        }
+      },
+      "stage43": {
+        "board": {
+          "reference": "board2",
+          "rotation": [
+            {
+              "interpolator": "linear",
+              "interval": 2,
+              "targetSpeed": 360
+            }
+          ]
+        },
+        "knifes": {
+          "origin": {
+            "items": [],
+            "strategy": "static"
+          },
+          "count": 10
+        },
+        "apples": {
+          "items": [
+            {
+              "reference": "apple1",
+              "position": -90
+            },
+            {
+              "reference": "apple1",
+              "position": 90
+            }
+          ],
+          "strategy": "static"
+        }
+      },
+      "stage29": {
+        "board": {
+          "reference": "board2",
+          "rotation": [
+            {
+              "interpolator": "linear",
+              "interval": 3,
+              "targetSpeed": -360
+            }
+          ]
+        },
+        "knifes": {
+          "origin": {
+            "items": [
+              {
+                "reference": "knife1",
+                "position": 0
+              },
+              {
+                "reference": "knife1",
+                "position": 90
+              },
+              {
+                "reference": "knife1",
+                "position": 180
+              },
+              {
+                "reference": "knife1",
+                "position": 270
+              }
+            ],
+            "strategy": "static"
+          },
+          "count": 10
+        },
+        "apples": {
+          "items": [],
+          "strategy": "static"
+        }
+      },
+      "stageboss7": {
+        "apples": {
+          "items": [
+            {
+              "reference": "apple1",
+              "position": 0
+            },
+            {
+              "reference": "apple1",
+              "position": 30
+            },
+            {
+              "reference": "apple1",
+              "position": 60
+            },
+            {
+              "reference": "apple1",
+              "position": 90
+            }
+          ],
+          "strategy": "static"
+        },
+        "reward": "knife23",
+        "knifes": {
+          "origin": {
+            "items": [
+              {
+                "reference": "knife1",
+                "position": -45
+              }
+            ],
+            "strategy": "static"
+          },
+          "count": 10
+        },
+        "knifeInsertedAudio": "play/boards/sound/boss_hit/boss_hit_tire",
+        "board": {
+          "reference": "board_boss_7",
+          "rotation": [
+            {
+              "interpolator": "fixed",
+              "interval": 2,
+              "targetSpeed": 120
+            },
+            {
+              "interpolator": "fixed",
+              "interval": 2,
+              "targetSpeed": 240
+            },
+            {
+              "interpolator": "fixed",
+              "interval": 2,
+              "targetSpeed": 360
+            }
+          ]
+        },
+        "boss": "The Tire"
+      },
+      "stage33": {
+        "board": {
+          "reference": "board2",
+          "rotation": [
+            {
+              "interpolator": "linear",
+              "interval": 2,
+              "targetSpeed": 360
+            }
+          ]
+        },
+        "knifes": {
+          "origin": {
+            "items": [],
+            "strategy": "static"
+          },
+          "count": 10
+        },
+        "apples": {
+          "items": [
+            {
+              "reference": "apple1",
+              "position": -90
+            },
+            {
+              "reference": "apple1",
+              "position": 90
+            }
+          ],
+          "strategy": "static"
+        }
+      },
+      "stage2": {
+        "board": {
+          "reference": "board2",
+          "rotation": [
+            {
+              "interpolator": "fixed",
+              "interval": 2,
+              "targetSpeed": 120
+            }
+          ]
+        },
+        "knifes": {
+          "origin": {
+            "items": [
+              {
+                "reference": "knife1",
+                "position": -180
+              }
+            ],
+            "strategy": "static"
+          },
+          "count": 6
+        },
+        "apples": {
+          "items": [
+            {
+              "reference": "apple1",
+              "position": 180
+            }
+          ],
+          "strategy": "static"
+        }
+      },
+      "stage19": {
+        "board": {
+          "reference": "board2",
+          "rotation": [
+            {
+              "interpolator": "linear",
+              "interval": 3,
+              "targetSpeed": -360
+            }
+          ]
+        },
+        "knifes": {
+          "origin": {
+            "items": [
+              {
+                "reference": "knife1",
+                "position": 0
+              },
+              {
+                "reference": "knife1",
+                "position": 90
+              },
+              {
+                "reference": "knife1",
+                "position": 180
+              },
+              {
+                "reference": "knife1",
+                "position": 270
+              }
+            ],
+            "strategy": "static"
+          },
+          "count": 10
+        },
+        "apples": {
+          "items": [],
+          "strategy": "static"
+        }
+      },
+      "stage48": {
+        "board": {
+          "reference": "board2",
+          "rotation": [
+            {
+              "interpolator": "linear",
+              "interval": 3,
+              "targetSpeed": 360
+            }
+          ]
+        },
+        "knifes": {
+          "origin": {
+            "items": [
+              {
+                "reference": "knife1",
+                "position": 0
+              },
+              {
+                "reference": "knife1",
+                "position": 120
+              },
+              {
+                "reference": "knife1",
+                "position": 240
+              }
+            ],
+            "strategy": "static"
+          },
+          "count": 8
+        },
+        "apples": {
+          "items": [
+            {
+              "reference": "apple1",
+              "position": 0
+            },
+            {
+              "reference": "apple1",
+              "position": 120
+            },
+            {
+              "reference": "apple1",
+              "position": 240
+            }
+          ],
+          "strategy": "static"
+        }
+      },
+      "stage23": {
+        "board": {
+          "reference": "board2",
+          "rotation": [
+            {
+              "interpolator": "linear",
+              "interval": 2,
+              "targetSpeed": 180
+            }
+          ]
+        },
+        "knifes": {
+          "origin": {
+            "items": [],
+            "strategy": "static"
+          },
+          "count": 10
+        },
+        "apples": {
+          "items": [
+            {
+              "reference": "apple1",
+              "position": -90
+            },
+            {
+              "reference": "apple1",
+              "position": 90
+            }
+          ],
+          "strategy": "static"
+        }
+      },
+      "stage1": {
+        "board": {
+          "reference": "board2",
+          "rotation": [
+            {
+              "interpolator": "fixed",
+              "interval": 2,
+              "targetSpeed": 90
+            }
+          ]
+        },
+        "knifes": {
+          "origin": {
+            "items": [],
+            "strategy": "static"
+          },
+          "count": 5
+        },
+        "apples": {
+          "items": [
+            {
+              "reference": "apple1",
+              "position": 0
+            }
+          ],
+          "strategy": "static"
+        }
+      },
+      "stage38": {
+        "board": {
+          "reference": "board2",
+          "rotation": [
+            {
+              "interpolator": "linear",
+              "interval": 3,
+              "targetSpeed": 360
+            }
+          ]
+        },
+        "knifes": {
+          "origin": {
+            "items": [
+              {
+                "reference": "knife1",
+                "position": 0
+              },
+              {
+                "reference": "knife1",
+                "position": 120
+              },
+              {
+                "reference": "knife1",
+                "position": 240
+              }
+            ],
+            "strategy": "static"
+          },
+          "count": 8
+        },
+        "apples": {
+          "items": [
+            {
+              "reference": "apple1",
+              "position": 0
+            },
+            {
+              "reference": "apple1",
+              "position": 120
+            },
+            {
+              "reference": "apple1",
+              "position": 240
+            }
+          ],
+          "strategy": "static"
+        }
+      },
+      "stage13": {
+        "board": {
+          "reference": "board2",
+          "rotation": [
+            {
+              "interpolator": "linear",
+              "interval": 2,
+              "targetSpeed": 200
+            }
+          ]
+        },
+        "knifes": {
+          "origin": {
+            "items": [],
+            "strategy": "static"
+          },
+          "count": 10
+        },
+        "apples": {
+          "items": [
+            {
+              "reference": "apple1",
+              "position": -90
+            },
+            {
+              "reference": "apple1",
+              "position": 90
+            }
+          ],
+          "strategy": "static"
+        }
+      },
+      "stage42": {
+        "board": {
+          "reference": "board2",
+          "rotation": [
+            {
+              "interpolator": "fixed",
+              "interval": 2,
+              "targetSpeed": 120
+            },
+            {
+              "interpolator": "linear",
+              "interval": 2,
+              "targetSpeed": -270
+            },
+            {
+              "interpolator": "fixed",
+              "interval": 2,
+              "targetSpeed": 120
+            }
+          ]
+        },
+        "knifes": {
+          "origin": {
+            "items": [],
+            "strategy": "static"
+          },
+          "count": 10
+        },
+        "apples": {
+          "items": [
+            {
+              "reference": "apple1",
+              "position": 0
+            },
+            {
+              "reference": "apple1",
+              "position": 60
+            },
+            {
+              "reference": "apple1",
+              "position": 120
+            }
+          ],
+          "strategy": "static"
+        }
+      },
+      "stage28": {
+        "board": {
+          "reference": "board2",
+          "rotation": [
+            {
+              "interpolator": "linear",
+              "interval": 3,
+              "targetSpeed": 360
+            }
+          ]
+        },
+        "knifes": {
+          "origin": {
+            "items": [
+              {
+                "reference": "knife1",
+                "position": 0
+              },
+              {
+                "reference": "knife1",
+                "position": 120
+              },
+              {
+                "reference": "knife1",
+                "position": 240
+              }
+            ],
+            "strategy": "static"
+          },
+          "count": 8
+        },
+        "apples": {
+          "items": [
+            {
+              "reference": "apple1",
+              "position": 0
+            },
+            {
+              "reference": "apple1",
+              "position": 120
+            },
+            {
+              "reference": "apple1",
+              "position": 240
+            }
+          ],
+          "strategy": "static"
+        }
+      },
+      "stageboss5": {
+        "apples": {
+          "items": [
+            {
+              "reference": "apple1",
+              "position": -90
+            },
+            {
+              "reference": "apple1",
+              "position": 60
+            }
+          ],
+          "strategy": "static"
+        },
+        "reward": "knife21",
+        "knifes": {
+          "origin": {
+            "items": [],
+            "strategy": "static"
+          },
+          "count": 10
+        },
+        "knifeInsertedAudio": "play/boards/sound/boss_hit/boss_hit_soda_can",
+        "board": {
+          "reference": "board_boss_5",
+          "rotation": [
+            {
+              "interpolator": "fixed",
+              "interval": 2,
+              "targetSpeed": 120
+            }
+          ]
+        },
+        "boss": "Soda Can"
+      },
+      "stage32": {
+        "board": {
+          "reference": "board2",
+          "rotation": [
+            {
+              "interpolator": "fixed",
+              "interval": 2,
+              "targetSpeed": 120
+            },
+            {
+              "interpolator": "linear",
+              "interval": 2,
+              "targetSpeed": -270
+            },
+            {
+              "interpolator": "fixed",
+              "interval": 2,
+              "targetSpeed": 120
+            }
+          ]
+        },
+        "knifes": {
+          "origin": {
+            "items": [],
+            "strategy": "static"
+          },
+          "count": 10
+        },
+        "apples": {
+          "items": [
+            {
+              "reference": "apple1",
+              "position": 0
+            },
+            {
+              "reference": "apple1",
+              "position": 60
+            },
+            {
+              "reference": "apple1",
+              "position": 120
+            }
+          ],
+          "strategy": "static"
+        }
+      },
+      "stage18": {
+        "board": {
+          "reference": "board2",
+          "rotation": [
+            {
+              "interpolator": "linear",
+              "interval": 3,
+              "targetSpeed": 360
+            }
+          ]
+        },
+        "knifes": {
+          "origin": {
+            "items": [
+              {
+                "reference": "knife1",
+                "position": 0
+              },
+              {
+                "reference": "knife1",
+                "position": 120
+              },
+              {
+                "reference": "knife1",
+                "position": 240
+              }
+            ],
+            "strategy": "static"
+          },
+          "count": 8
+        },
+        "apples": {
+          "items": [
+            {
+              "reference": "apple1",
+              "position": 0
+            },
+            {
+              "reference": "apple1",
+              "position": 120
+            },
+            {
+              "reference": "apple1",
+              "position": 240
+            }
+          ],
+          "strategy": "static"
+        }
+      },
+      "stage47": {
+        "board": {
+          "reference": "board2",
+          "rotation": [
+            {
+              "interpolator": "fixed",
+              "interval": 2,
+              "targetSpeed": 180
+            },
+            {
+              "interpolator": "fixed",
+              "interval": 2,
+              "targetSpeed": 180
+            },
+            {
+              "interpolator": "fixed",
+              "interval": 2,
+              "targetSpeed": -180
+            },
+            {
+              "interpolator": "fixed",
+              "interval": 2,
+              "targetSpeed": -180
+            }
+          ]
+        },
+        "knifes": {
+          "origin": {
+            "items": [
+              {
+                "reference": "knife1",
+                "position": -180
+              }
+            ],
+            "strategy": "static"
+          },
+          "count": 11
+        },
+        "apples": {
+          "items": [
+            {
+              "reference": "apple1",
+              "position": 180
+            }
+          ],
+          "strategy": "static"
+        }
+      },
+      "stage22": {
+        "board": {
+          "reference": "board2",
+          "rotation": [
+            {
+              "interpolator": "fixed",
+              "interval": 2,
+              "targetSpeed": 120
+            }
+          ]
+        },
+        "knifes": {
+          "origin": {
+            "items": [
+              {
+                "reference": "knife1",
+                "position": -180
+              }
+            ],
+            "strategy": "static"
+          },
+          "count": 9
+        },
+        "apples": {
+          "items": [
+            {
+              "reference": "apple1",
+              "position": 180
+            }
+          ],
+          "strategy": "static"
+        }
+      },
+      "stageboss3": {
+        "apples": {
+          "items": [
+            {
+              "reference": "apple1",
+              "position": 30
+            },
+            {
+              "reference": "apple1",
+              "position": 60
+            },
+            {
+              "reference": "apple1",
+              "position": 90
+            },
+            {
+              "reference": "apple1",
+              "position": 120
+            }
+          ],
+          "strategy": "static"
+        },
+        "reward": "knife19",
+        "knifes": {
+          "origin": {
+            "items": [],
+            "strategy": "static"
+          },
+          "count": 10
+        },
+        "knifeInsertedAudio": "play/boards/sound/boss_hit/boss_tomato",
+        "board": {
+          "reference": "board_boss_3",
+          "rotation": [
+            {
+              "interpolator": "fixed",
+              "interval": 2,
+              "targetSpeed": 120
+            }
+          ]
+        },
+        "boss": "Tomato"
+      },
+      "stage37": {
+        "board": {
+          "reference": "board2",
+          "rotation": [
+            {
+              "interpolator": "fixed",
+              "interval": 2,
+              "targetSpeed": 180
+            },
+            {
+              "interpolator": "fixed",
+              "interval": 2,
+              "targetSpeed": 180
+            },
+            {
+              "interpolator": "fixed",
+              "interval": 2,
+              "targetSpeed": -180
+            },
+            {
+              "interpolator": "fixed",
+              "interval": 2,
+              "targetSpeed": -180
+            }
+          ]
+        },
+        "knifes": {
+          "origin": {
+            "items": [
+              {
+                "reference": "knife1",
+                "position": -180
+              }
+            ],
+            "strategy": "static"
+          },
+          "count": 11
+        },
+        "apples": {
+          "items": [
+            {
+              "reference": "apple1",
+              "position": 180
+            }
+          ],
+          "strategy": "static"
+        }
+      },
+      "stage12": {
+        "board": {
+          "reference": "board2",
+          "rotation": [
+            {
+              "interpolator": "fixed",
+              "interval": 2,
+              "targetSpeed": 120
+            },
+            {
+              "interpolator": "linear",
+              "interval": 2,
+              "targetSpeed": -270
+            },
+            {
+              "interpolator": "fixed",
+              "interval": 2,
+              "targetSpeed": 120
+            }
+          ]
+        },
+        "knifes": {
+          "origin": {
+            "items": [],
+            "strategy": "static"
+          },
+          "count": 10
+        },
+        "apples": {
+          "items": [
+            {
+              "reference": "apple1",
+              "position": 0
+            },
+            {
+              "reference": "apple1",
+              "position": 60
+            },
+            {
+              "reference": "apple1",
+              "position": 120
+            }
+          ],
+          "strategy": "static"
+        }
+      },
+      "stage41": {
+        "board": {
+          "reference": "board2",
+          "rotation": [
+            {
+              "interpolator": "fixed",
+              "interval": 2,
+              "targetSpeed": 90
+            }
+          ]
+        },
+        "knifes": {
+          "origin": {
+            "items": [
+              {
+                "reference": "knife1",
+                "position": 180
+              }
+            ],
+            "strategy": "static"
+          },
+          "count": 12
+        },
+        "apples": {
+          "items": [
+            {
+              "reference": "apple1",
+              "position": -30
+            },
+            {
+              "reference": "apple1",
+              "position": 30
+            }
+          ],
+          "strategy": "static"
+        }
+      },
+      "stage27": {
+        "board": {
+          "reference": "board2",
+          "rotation": [
+            {
+              "interpolator": "fixed",
+              "interval": 2,
+              "targetSpeed": 180
+            },
+            {
+              "interpolator": "fixed",
+              "interval": 2,
+              "targetSpeed": 180
+            },
+            {
+              "interpolator": "fixed",
+              "interval": 2,
+              "targetSpeed": -180
+            },
+            {
+              "interpolator": "fixed",
+              "interval": 2,
+              "targetSpeed": -180
+            }
+          ]
+        },
+        "knifes": {
+          "origin": {
+            "items": [
+              {
+                "reference": "knife1",
+                "position": -180
+              }
+            ],
+            "strategy": "static"
+          },
+          "count": 11
+        },
+        "apples": {
+          "items": [
+            {
+              "reference": "apple1",
+              "position": 180
+            }
+          ],
+          "strategy": "static"
+        }
+      },
+      "stageboss10": {
+        "apples": {
+          "items": [
+            {
+              "reference": "apple1",
+              "position": 0
+            },
+            {
+              "reference": "apple1",
+              "position": 30
+            },
+            {
+              "reference": "apple1",
+              "position": 60
+            },
+            {
+              "reference": "apple1",
+              "position": 90
+            }
+          ],
+          "strategy": "static"
+        },
+        "reward": "knife26",
+        "knifes": {
+          "origin": {
+            "items": [
+              {
+                "reference": "knife1",
+                "position": -45
+              }
+            ],
+            "strategy": "static"
+          },
+          "count": 15
+        },
+        "knifeInsertedAudio": "play/boards/sound/boss_hit/boss_hit_sushi_roll",
+        "board": {
+          "reference": "board_boss_10",
+          "rotation": [
+            {
+              "interpolator": "linear",
+              "interval": 2,
+              "targetSpeed": 360
+            },
+            {
+              "interpolator": "linear",
+              "interval": 2,
+              "targetSpeed": -360
+            }
+          ]
+        },
+        "boss": "Sushi Roll"
+      },
+      "stage31": {
+        "board": {
+          "reference": "board2",
+          "rotation": [
+            {
+              "interpolator": "fixed",
+              "interval": 2,
+              "targetSpeed": 90
+            }
+          ]
+        },
+        "knifes": {
+          "origin": {
+            "items": [
+              {
+                "reference": "knife1",
+                "position": 180
+              }
+            ],
+            "strategy": "static"
+          },
+          "count": 12
+        },
+        "apples": {
+          "items": [
+            {
+              "reference": "apple1",
+              "position": -30
+            },
+            {
+              "reference": "apple1",
+              "position": 30
+            }
+          ],
+          "strategy": "static"
+        }
+      },
+      "stage17": {
+        "board": {
+          "reference": "board2",
+          "rotation": [
+            {
+              "interpolator": "fixed",
+              "interval": 2,
+              "targetSpeed": 180
+            },
+            {
+              "interpolator": "fixed",
+              "interval": 2,
+              "targetSpeed": 180
+            },
+            {
+              "interpolator": "fixed",
+              "interval": 2,
+              "targetSpeed": -180
+            },
+            {
+              "interpolator": "fixed",
+              "interval": 2,
+              "targetSpeed": -180
+            }
+          ]
+        },
+        "knifes": {
+          "origin": {
+            "items": [
+              {
+                "reference": "knife1",
+                "position": -180
+              }
+            ],
+            "strategy": "static"
+          },
+          "count": 11
+        },
+        "apples": {
+          "items": [
+            {
+              "reference": "apple1",
+              "position": 180
+            }
+          ],
+          "strategy": "static"
+        }
+      },
+      "stage46": {
+        "board": {
+          "reference": "board2",
+          "rotation": [
+            {
+              "interpolator": "fixed",
+              "interval": 0.01,
+              "targetSpeed": 180
+            }
+          ]
+        },
+        "knifes": {
+          "origin": {
+            "items": [
+              {
+                "reference": "knife1",
+                "position": 45
+              },
+              {
+                "reference": "knife1",
+                "position": 90
+              },
+              {
+                "reference": "knife1",
+                "position": -90
+              },
+              {
+                "reference": "knife1",
+                "position": -135
+              }
+            ],
+            "strategy": "static"
+          },
+          "count": 9
+        },
+        "apples": {
+          "items": [],
+          "strategy": "static"
+        }
+      },
+      "stage9": {
+        "board": {
+          "reference": "board2",
+          "rotation": [
+            {
+              "interpolator": "linear",
+              "interval": 3,
+              "targetSpeed": -220
+            }
+          ]
+        },
+        "knifes": {
+          "origin": {
+            "items": [
+              {
+                "reference": "knife1",
+                "position": 0
+              },
+              {
+                "reference": "knife1",
+                "position": 90
+              },
+              {
+                "reference": "knife1",
+                "position": 180
+              },
+              {
+                "reference": "knife1",
+                "position": 270
+              }
+            ],
+            "strategy": "static"
+          },
+          "count": 10
+        },
+        "apples": {
+          "items": [],
+          "strategy": "static"
+        }
+      },
+      "stage21": {
+        "board": {
+          "reference": "board2",
+          "rotation": [
+            {
+              "interpolator": "fixed",
+              "interval": 2,
+              "targetSpeed": 90
+            }
+          ]
+        },
+        "knifes": {
+          "origin": {
+            "items": [],
+            "strategy": "static"
+          },
+          "count": 7
+        },
+        "apples": {
+          "items": [
+            {
+              "reference": "apple1",
+              "position": 0
+            }
+          ],
+          "strategy": "static"
+        }
+      },
+      "stageboss1": {
+        "apples": {
+          "items": [
+            {
+              "reference": "apple1",
+              "position": 0
+            },
+            {
+              "reference": "apple1",
+              "position": 30
+            },
+            {
+              "reference": "apple1",
+              "position": 60
+            },
+            {
+              "reference": "apple1",
+              "position": 90
+            }
+          ],
+          "strategy": "static"
+        },
+        "reward": "knife17",
+        "knifes": {
+          "origin": {
+            "items": [
+              {
+                "reference": "knife1",
+                "position": -45
+              }
+            ],
+            "strategy": "static"
+          },
+          "count": 10
+        },
+        "knifeInsertedAudio": "play/boards/sound/boss_hit/boss_hit_apple_pie",
+        "board": {
+          "reference": "board_boss_1",
+          "rotation": [
+            {
+              "interpolator": "fixed",
+              "interval": 2,
+              "targetSpeed": 120
+            }
+          ]
+        },
+        "boss": "Apple Pie"
+      },
+      "stage36": {
+        "board": {
+          "reference": "board2",
+          "rotation": [
+            {
+              "interpolator": "fixed",
+              "interval": 0.01,
+              "targetSpeed": 180
+            }
+          ]
+        },
+        "knifes": {
+          "origin": {
+            "items": [
+              {
+                "reference": "knife1",
+                "position": 45
+              },
+              {
+                "reference": "knife1",
+                "position": 90
+              },
+              {
+                "reference": "knife1",
+                "position": -90
+              },
+              {
+                "reference": "knife1",
+                "position": -135
+              }
+            ],
+            "strategy": "static"
+          },
+          "count": 9
+        },
+        "apples": {
+          "items": [],
+          "strategy": "static"
+        }
+      },
+      "stageboss8": {
+        "apples": {
+          "items": [
+            {
+              "reference": "apple1",
+              "position": -90
+            },
+            {
+              "reference": "apple1",
+              "position": 60
+            }
+          ],
+          "strategy": "static"
+        },
+        "reward": "knife24",
+        "knifes": {
+          "origin": {
+            "items": [],
+            "strategy": "static"
+          },
+          "count": 10
+        },
+        "knifeInsertedAudio": "play/boards/sound/boss_hit/boss_hit_streak",
+        "board": {
+          "reference": "board_boss_8",
+          "rotation": [
+            {
+              "interpolator": "linear",
+              "interval": 2,
+              "targetSpeed": 180
+            },
+            {
+              "interpolator": "linear",
+              "interval": 2,
+              "targetSpeed": -270
+            },
+            {
+              "interpolator": "linear",
+              "interval": 2,
+              "targetSpeed": -180
+            },
+            {
+              "interpolator": "linear",
+              "interval": 2,
+              "targetSpeed": 360
+            }
+          ]
+        },
+        "boss": "Steak"
+      },
+      "stage11": {
+        "board": {
+          "reference": "board2",
+          "rotation": [
+            {
+              "interpolator": "fixed",
+              "interval": 2,
+              "targetSpeed": 150
+            }
+          ]
+        },
+        "knifes": {
+          "count": 12,
+          "origin": {
+            "items": [
+              {
+                "reference": "knife1",
+                "position": 180
+              }
+            ],
+            "strategy": "static"
+          }
+        },
+        "apples": {
+          "items": [
+            {
+              "reference": "apple1",
+              "position": -30
+            },
+            {
+              "reference": "apple1",
+              "position": 30
+            }
+          ],
+          "strategy": "static"
+        }
+      },
+      "stage8": {
+        "board": {
+          "reference": "board2",
+          "rotation": [
+            {
+              "interpolator": "linear",
+              "interval": 3,
+              "targetSpeed": 200
+            }
+          ]
+        },
+        "knifes": {
+          "count": 8,
+          "origin": {
+            "items": [
+              {
+                "reference": "knife1",
+                "position": 0
+              },
+              {
+                "reference": "knife1",
+                "position": 120
+              },
+              {
+                "reference": "knife1",
+                "position": 240
+              }
+            ],
+            "strategy": "static"
+          }
+        },
+        "apples": {
+          "items": [
+            {
+              "reference": "apple1",
+              "position": 0
+            },
+            {
+              "reference": "apple1",
+              "position": 120
+            },
+            {
+              "reference": "apple1",
+              "position": 240
+            }
+          ],
+          "strategy": "static"
+        }
+      },
+      "stage26": {
+        "board": {
+          "reference": "board2",
+          "rotation": [
+            {
+              "interpolator": "fixed",
+              "interval": 0.01,
+              "targetSpeed": 180
+            }
+          ]
+        },
+        "knifes": {
+          "count": 9,
+          "origin": {
+            "items": [
+              {
+                "reference": "knife1",
+                "position": 45
+              },
+              {
+                "reference": "knife1",
+                "position": 90
+              },
+              {
+                "reference": "knife1",
+                "position": -90
+              },
+              {
+                "reference": "knife1",
+                "position": -135
+              }
+            ],
+            "strategy": "static"
+          }
+        },
+        "apples": {
+          "items": [],
+          "strategy": "static"
+        }
+      }
+    },
+    "knifes": {
+      "knife16": {
+        "obtaining": 2,
+        "length": 420,
+        "insertLength": 300,
+        "price": 8,
+        "resource": "warehouse/knifes/icons/knife_16"
+      },
+      "knife22": {
+        "obtaining": 3,
+        "length": 420,
+        "insertLength": 300,
+        "price": 1,
+        "resource": "warehouse/knifes/icons/knife_22"
+      },
+      "knife5": {
+        "obtaining": 1,
+        "length": 420,
+        "insertLength": 280,
+        "price": 800,
+        "resource": "warehouse/knifes/icons/knife_5"
+      },
+      "knife10": {
+        "obtaining": 1,
+        "length": 420,
+        "insertLength": 240,
+        "price": 1200,
+        "resource": "warehouse/knifes/icons/knife_10"
+      },
+      "knife17": {
+        "obtaining": 3,
+        "length": 420,
+        "insertLength": 275,
+        "price": 1,
+        "resource": "warehouse/knifes/icons/knife_17"
+      },
+      "knife23": {
+        "obtaining": 3,
+        "length": 420,
+        "insertLength": 285,
+        "price": 1,
+        "resource": "warehouse/knifes/icons/knife_23"
+      },
+      "knife7": {
+        "obtaining": 1,
+        "length": 420,
+        "insertLength": 300,
+        "price": 800,
+        "resource": "warehouse/knifes/icons/knife_7"
+      },
+      "knife2": {
+        "obtaining": 1,
+        "length": 420,
+        "insertLength": 300,
+        "price": 500,
+        "resource": "warehouse/knifes/icons/knife_2"
+      },
+      "knife11": {
+        "obtaining": 2,
+        "length": 420,
+        "insertLength": 280,
+        "price": 4,
+        "resource": "warehouse/knifes/icons/knife_11"
+      },
+      "knife18": {
+        "obtaining": 3,
+        "length": 420,
+        "insertLength": 260,
+        "price": 1,
+        "resource": "warehouse/knifes/icons/knife_18"
+      },
+      "knife24": {
+        "obtaining": 3,
+        "length": 420,
+        "insertLength": 180,
+        "price": 1,
+        "resource": "warehouse/knifes/icons/knife_24"
+      },
+      "knife9": {
+        "obtaining": 1,
+        "length": 420,
+        "insertLength": 290,
+        "price": 1200,
+        "resource": "warehouse/knifes/icons/knife_9"
+      },
+      "knife12": {
+        "obtaining": 2,
+        "length": 420,
+        "insertLength": 300,
+        "price": 4,
+        "resource": "warehouse/knifes/icons/knife_12"
+      },
+      "knife19": {
+        "obtaining": 3,
+        "length": 420,
+        "insertLength": 280,
+        "price": 1,
+        "resource": "warehouse/knifes/icons/knife_19"
+      },
+      "knife25": {
+        "obtaining": 3,
+        "length": 420,
+        "insertLength": 240,
+        "price": 1,
+        "resource": "warehouse/knifes/icons/knife_25"
+      },
+      "knife4": {
+        "obtaining": 1,
+        "length": 420,
+        "insertLength": 280,
+        "price": 500,
+        "resource": "warehouse/knifes/icons/knife_4"
+      },
+      "knife13": {
+        "obtaining": 2,
+        "length": 420,
+        "insertLength": 290,
+        "price": 6,
+        "resource": "warehouse/knifes/icons/knife_13"
+      },
+      "knife6": {
+        "obtaining": 1,
+        "length": 420,
+        "insertLength": 260,
+        "price": 800,
+        "resource": "warehouse/knifes/icons/knife_6"
+      },
+      "knife26": {
+        "obtaining": 3,
+        "length": 420,
+        "insertLength": 280,
+        "price": 1,
+        "resource": "warehouse/knifes/icons/knife_26"
+      },
+      "knife1": {
+        "insertLength": 300,
+        "length": 420,
+        "resource": "warehouse/knifes/icons/knife_1"
+      },
+      "knife14": {
+        "obtaining": 2,
+        "length": 420,
+        "insertLength": 270,
+        "price": 6,
+        "resource": "warehouse/knifes/icons/knife_14"
+      },
+      "knife20": {
+        "obtaining": 3,
+        "length": 420,
+        "insertLength": 280,
+        "price": 1,
+        "resource": "warehouse/knifes/icons/knife_20"
+      },
+      "knife8": {
+        "obtaining": 1,
+        "length": 420,
+        "insertLength": 300,
+        "price": 1200,
+        "resource": "warehouse/knifes/icons/knife_8"
+      },
+      "knife3": {
+        "obtaining": 1,
+        "length": 420,
+        "insertLength": 250,
+        "price": 500,
+        "resource": "warehouse/knifes/icons/knife_3"
+      },
+      "knife15": {
+        "obtaining": 2,
+        "length": 420,
+        "insertLength": 300,
+        "price": 8,
+        "resource": "warehouse/knifes/icons/knife_15"
+      },
+      "knife21": {
+        "obtaining": 3,
+        "length": 420,
+        "insertLength": 255,
+        "price": 1,
+        "resource": "warehouse/knifes/icons/knife_21"
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "stage_progress_bar_knife",
+    "texture": "deb7fb72-e335-4c47-a06d-f1a27df2a4c2",
+    "atlas": "",
+    "rect": [
+      10,
+      8,
+      41,
+      38
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      60,
+      54
+    ]
+  }
+}

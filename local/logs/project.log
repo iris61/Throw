@@ -1,0 +1,223 @@
+2019-01-21T04:08:22.794Z - normal: Load ~/.CocosCreator/settings.json
+2019-01-21T04:08:22.796Z - normal: checking language setting...
+2019-01-21T04:08:22.796Z - normal: Language: en
+2019-01-21T04:08:23.348Z - success: protocol editor-framework registered
+2019-01-21T04:08:23.348Z - success: protocol app registered
+2019-01-21T04:08:23.348Z - success: protocol theme registered
+2019-01-21T04:08:23.349Z - success: protocol packages registered
+2019-01-21T04:08:23.349Z - success: protocol unpack registerred
+2019-01-21T04:08:23.349Z - success: protocol disable-commonjs registerred
+2019-01-21T04:08:23.645Z - normal: connected!
+2019-01-21T04:08:23.648Z - normal: Check project /Users/ihandysoft-327/App_ThrowingMaster_JS
+2019-01-21T04:08:23.650Z - normal: Initializing project /Users/ihandysoft-327/App_ThrowingMaster_JS
+2019-01-21T04:08:23.664Z - normal: Initializing Cocos2d
+2019-01-21T04:08:23.935Z - normal: Initializing Asset Database
+2019-01-21T04:08:23.974Z - success: protocol uuid registerred
+2019-01-21T04:08:23.974Z - success: protocol db registerred
+2019-01-21T04:08:23.974Z - success: protocol thumbnail registerred
+2019-01-21T04:08:23.975Z - normal: Loading editor/builtin packages
+2019-01-21T04:08:24.119Z - success: assets loaded
+2019-01-21T04:08:24.123Z - success: builder loaded
+2019-01-21T04:08:24.125Z - success: cocos-analytics loaded
+2019-01-21T04:08:24.130Z - success: console loaded
+2019-01-21T04:08:24.163Z - success: fb-instant-games loaded
+2019-01-21T04:08:24.170Z - success: hierarchy loaded
+2019-01-21T04:08:24.175Z - success: inspector loaded
+2019-01-21T04:08:24.177Z - success: keystore loaded
+2019-01-21T04:08:24.185Z - success: node-library loaded
+2019-01-21T04:08:24.189Z - success: package-asset loaded
+2019-01-21T04:08:24.190Z - success: preferences loaded
+2019-01-21T04:08:24.193Z - success: project-exporter loaded
+2019-01-21T04:08:24.210Z - success: project-importer loaded
+2019-01-21T04:08:24.212Z - success: project-settings loaded
+2019-01-21T04:08:24.219Z - success: ui-kit loaded
+2019-01-21T04:08:24.225Z - success: scene loaded
+2019-01-21T04:08:24.227Z - success: sprite-editor loaded
+2019-01-21T04:08:24.232Z - success: store loaded
+2019-01-21T04:08:24.239Z - success: timeline loaded
+2019-01-21T04:08:24.239Z - normal: Loading builtin packages
+2019-01-21T04:08:24.251Z - success: asset-db-debugger loaded
+2019-01-21T04:08:24.252Z - success: color-picker loaded
+2019-01-21T04:08:24.257Z - success: package-manager loaded
+2019-01-21T04:08:24.258Z - success: qqplay-adapter loaded
+2019-01-21T04:08:24.265Z - success: sdkbox loaded
+2019-01-21T04:08:24.274Z - success: tester loaded
+2019-01-21T04:08:24.281Z - success: ui-grid loaded
+2019-01-21T04:08:24.287Z - success: ui-kit-preview-extra loaded
+2019-01-21T04:08:24.293Z - success: ui-kit-preview loaded
+2019-01-21T04:08:24.299Z - success: ui-tree loaded
+2019-01-21T04:08:24.300Z - success: weapp-adapter loaded
+2019-01-21T04:08:25.327Z - normal: Loading packages
+2019-01-21T04:08:25.332Z - normal: Watching packages
+2019-01-21T04:08:25.378Z - normal: Run Application
+2019-01-21T04:08:26.234Z - success: preview server running at http://localhost:7456
+2019-01-21T04:08:32.875Z - warn: Please change the definition of property 'countdownAudio' in class 'ContinueComponent'. Starting from v1.10,
+properties in CCClass can not be abbreviated if they are of type RawAsset.
+Please use the complete form.
+For example, if the type is Texture2D, the previous definition is:
+    countdownAudio: cc.Texture2D,
+Now it should be changed to:
+    countdownAudio: {
+      type: cc.Texture2D // use 'type:' to define Texture2D object directly
+      default: null,     // object's default value is null
+    },
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2019-01-21T04:08:32.876Z - warn: The default value of ContinueComponent.countdownAudio must be an empty string. (changed since 1.8)
+2019-01-21T04:08:32.877Z - normal: undefined
+2019-01-21T04:08:32.877Z - warn: Please change the definition of property 'knifeHitAudio' in class 'KnifeControlComponent'. Starting from v1.10,
+properties in CCClass can not be abbreviated if they are of type RawAsset.
+Please use the complete form.
+For example, if the type is Texture2D, the previous definition is:
+    knifeHitAudio: cc.Texture2D,
+Now it should be changed to:
+    knifeHitAudio: {
+      type: cc.Texture2D // use 'type:' to define Texture2D object directly
+      default: null,     // object's default value is null
+    },
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2019-01-21T04:08:32.878Z - warn: The default value of KnifeControlComponent.knifeHitAudio must be an empty string. (changed since 1.8)
+2019-01-21T04:08:32.895Z - warn: Please change the definition of property 'knifeThrowAudio' in class 'PlayStageControlComponent'. Starting from v1.10,
+properties in CCClass can not be abbreviated if they are of type RawAsset.
+Please use the complete form.
+For example, if the type is Texture2D, the previous definition is:
+    knifeThrowAudio: cc.Texture2D,
+Now it should be changed to:
+    knifeThrowAudio: {
+      type: cc.Texture2D // use 'type:' to define Texture2D object directly
+      default: null,     // object's default value is null
+    },
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2019-01-21T04:08:32.898Z - warn: The default value of PlayStageControlComponent.knifeThrowAudio must be an empty string. (changed since 1.8)
+2019-01-21T04:08:32.900Z - warn: Please change the definition of property 'hitNormalBoardAudio' in class 'PlayStageControlComponent'. Starting from v1.10,
+properties in CCClass can not be abbreviated if they are of type RawAsset.
+Please use the complete form.
+For example, if the type is Texture2D, the previous definition is:
+    hitNormalBoardAudio: cc.Texture2D,
+Now it should be changed to:
+    hitNormalBoardAudio: {
+      type: cc.Texture2D // use 'type:' to define Texture2D object directly
+      default: null,     // object's default value is null
+    },
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2019-01-21T04:08:32.900Z - warn: The default value of PlayStageControlComponent.hitNormalBoardAudio must be an empty string. (changed since 1.8)
+2019-01-21T04:08:32.901Z - warn: Please change the definition of property 'hitAppleAudio' in class 'PlayStageControlComponent'. Starting from v1.10,
+properties in CCClass can not be abbreviated if they are of type RawAsset.
+Please use the complete form.
+For example, if the type is Texture2D, the previous definition is:
+    hitAppleAudio: cc.Texture2D,
+Now it should be changed to:
+    hitAppleAudio: {
+      type: cc.Texture2D // use 'type:' to define Texture2D object directly
+      default: null,     // object's default value is null
+    },
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2019-01-21T04:08:32.901Z - warn: The default value of PlayStageControlComponent.hitAppleAudio must be an empty string. (changed since 1.8)
+2019-01-21T04:08:32.906Z - warn: Please change the definition of property 'boardBreakAudio' in class 'PlayStageControlComponent'. Starting from v1.10,
+properties in CCClass can not be abbreviated if they are of type RawAsset.
+Please use the complete form.
+For example, if the type is Texture2D, the previous definition is:
+    boardBreakAudio: cc.Texture2D,
+Now it should be changed to:
+    boardBreakAudio: {
+      type: cc.Texture2D // use 'type:' to define Texture2D object directly
+      default: null,     // object's default value is null
+    },
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2019-01-21T04:08:32.907Z - warn: The default value of PlayStageControlComponent.boardBreakAudio must be an empty string. (changed since 1.8)
+2019-01-21T04:08:32.909Z - warn: Please change the definition of property 'bossBoardBreakAudio' in class 'PlayStageControlComponent'. Starting from v1.10,
+properties in CCClass can not be abbreviated if they are of type RawAsset.
+Please use the complete form.
+For example, if the type is Texture2D, the previous definition is:
+    bossBoardBreakAudio: cc.Texture2D,
+Now it should be changed to:
+    bossBoardBreakAudio: {
+      type: cc.Texture2D // use 'type:' to define Texture2D object directly
+      default: null,     // object's default value is null
+    },
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2019-01-21T04:08:32.909Z - warn: The default value of PlayStageControlComponent.bossBoardBreakAudio must be an empty string. (changed since 1.8)
+2019-01-21T04:08:32.909Z - warn: Please change the definition of property 'bossAppearAudio' in class 'PlayStageControlComponent'. Starting from v1.10,
+properties in CCClass can not be abbreviated if they are of type RawAsset.
+Please use the complete form.
+For example, if the type is Texture2D, the previous definition is:
+    bossAppearAudio: cc.Texture2D,
+Now it should be changed to:
+    bossAppearAudio: {
+      type: cc.Texture2D // use 'type:' to define Texture2D object directly
+      default: null,     // object's default value is null
+    },
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2019-01-21T04:08:32.910Z - warn: The default value of PlayStageControlComponent.bossAppearAudio must be an empty string. (changed since 1.8)
+2019-01-21T04:08:32.910Z - warn: Please change the definition of property 'bossDefeatedAudio' in class 'PlayStageControlComponent'. Starting from v1.10,
+properties in CCClass can not be abbreviated if they are of type RawAsset.
+Please use the complete form.
+For example, if the type is Texture2D, the previous definition is:
+    bossDefeatedAudio: cc.Texture2D,
+Now it should be changed to:
+    bossDefeatedAudio: {
+      type: cc.Texture2D // use 'type:' to define Texture2D object directly
+      default: null,     // object's default value is null
+    },
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2019-01-21T04:08:32.911Z - warn: The default value of PlayStageControlComponent.bossDefeatedAudio must be an empty string. (changed since 1.8)
+2019-01-21T04:08:32.911Z - warn: Please change the definition of property 'getKnifeAudio' in class 'PlayStageControlComponent'. Starting from v1.10,
+properties in CCClass can not be abbreviated if they are of type RawAsset.
+Please use the complete form.
+For example, if the type is Texture2D, the previous definition is:
+    getKnifeAudio: cc.Texture2D,
+Now it should be changed to:
+    getKnifeAudio: {
+      type: cc.Texture2D // use 'type:' to define Texture2D object directly
+      default: null,     // object's default value is null
+    },
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2019-01-21T04:08:32.911Z - warn: The default value of PlayStageControlComponent.getKnifeAudio must be an empty string. (changed since 1.8)
+2019-01-21T04:08:32.924Z - warn: Please change the definition of property 'giftOpenAudio' in class 'GiftComponent'. Starting from v1.10,
+properties in CCClass can not be abbreviated if they are of type RawAsset.
+Please use the complete form.
+For example, if the type is Texture2D, the previous definition is:
+    giftOpenAudio: cc.Texture2D,
+Now it should be changed to:
+    giftOpenAudio: {
+      type: cc.Texture2D // use 'type:' to define Texture2D object directly
+      default: null,     // object's default value is null
+    },
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2019-01-21T04:08:32.924Z - warn: The default value of GiftComponent.giftOpenAudio must be an empty string. (changed since 1.8)
+2019-01-21T04:08:32.932Z - warn: Please change the definition of property 'chooseKnifeAudio' in class 'KnifeWarehousePageViewComponent'. Starting from v1.10,
+properties in CCClass can not be abbreviated if they are of type RawAsset.
+Please use the complete form.
+For example, if the type is Texture2D, the previous definition is:
+    chooseKnifeAudio: cc.Texture2D,
+Now it should be changed to:
+    chooseKnifeAudio: {
+      type: cc.Texture2D // use 'type:' to define Texture2D object directly
+      default: null,     // object's default value is null
+    },
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2019-01-21T04:08:32.933Z - warn: The default value of KnifeWarehousePageViewComponent.chooseKnifeAudio must be an empty string. (changed since 1.8)
+2019-01-21T04:08:32.938Z - warn: Please change the definition of property 'getKnifeAudio' in class 'KnifeWarehouseComponent'. Starting from v1.10,
+properties in CCClass can not be abbreviated if they are of type RawAsset.
+Please use the complete form.
+For example, if the type is Texture2D, the previous definition is:
+    getKnifeAudio: cc.Texture2D,
+Now it should be changed to:
+    getKnifeAudio: {
+      type: cc.Texture2D // use 'type:' to define Texture2D object directly
+      default: null,     // object's default value is null
+    },
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2019-01-21T04:08:32.938Z - warn: The default value of KnifeWarehouseComponent.getKnifeAudio must be an empty string. (changed since 1.8)
+2019-01-21T04:08:32.949Z - normal: PlatformCallJS init
+2019-01-21T04:08:32.953Z - warn: Please change the definition of property 'buttonClickAudio' in class 'SettingComponent'. Starting from v1.10,
+properties in CCClass can not be abbreviated if they are of type RawAsset.
+Please use the complete form.
+For example, if the type is Texture2D, the previous definition is:
+    buttonClickAudio: cc.Texture2D,
+Now it should be changed to:
+    buttonClickAudio: {
+      type: cc.Texture2D // use 'type:' to define Texture2D object directly
+      default: null,     // object's default value is null
+    },
+(This helps us to successfully refactor all RawAssets at v2.0, sorry for the inconvenience. 😰 )
+2019-01-21T04:08:32.953Z - warn: The default value of SettingComponent.buttonClickAudio must be an empty string. (changed since 1.8)

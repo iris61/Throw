@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "continue_knive",
+    "texture": "a633e877-cbed-4db3-8b14-2f595b16b05d",
+    "atlas": "",
+    "rect": [
+      22,
+      14,
+      231,
+      222
+    ],
+    "offset": [
+      3.5,
+      9.5
+    ],
+    "originalSize": [
+      268,
+      269
+    ]
+  }
+}

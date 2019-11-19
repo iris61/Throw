@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "half_apple_1",
+    "texture": "f423b9ee-5707-4646-a9eb-bcfc84ce76bf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      135,
+      124
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      135,
+      124
+    ]
+  }
+}

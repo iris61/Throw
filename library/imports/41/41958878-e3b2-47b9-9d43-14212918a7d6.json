@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "warehouse_light",
+    "texture": "26b3dd47-218b-4222-9d25-914cbd109763",
+    "atlas": "",
+    "rect": [
+      1,
+      2,
+      992,
+      992
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      994,
+      994
+    ]
+  }
+}
